@@ -119,8 +119,12 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
 </table>
 
 # 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianRojasSoftwareDeveloper&theme=swift&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+<div style="width: 100%;">
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianRojasSoftwareDeveloper&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=1000" 
+        alt="GitHub Stats" 
+        style="display: block;"
+    >
 </div>
 
 ## 🌐 Socials:
