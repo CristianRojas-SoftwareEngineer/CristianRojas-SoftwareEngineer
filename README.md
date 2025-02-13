@@ -34,3 +34,12 @@ Consciente de la importancia del aprendizaje continuo, me he propuesto ampliar y
 ### 6. Objetivos a mediano y largo plazo
 
 Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de un libro sobre patrones de diseño de software. Mi intención es recopilar y analizar los patrones más significativos propuestos durante las últimas décadas, contribuyendo a la evolución y consolidación de buenas prácticas en la ingeniería de software.
+
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianRojasSoftwareDeveloper&theme=swift&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+</div>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-rojas-software-engineer)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cristian.rojas.software.engineer@gmail.com)
