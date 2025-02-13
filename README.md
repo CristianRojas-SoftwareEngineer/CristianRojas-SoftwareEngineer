@@ -1,6 +1,6 @@
-## ¡Hola!, bienvenido a mi perfil 👋🏻
-
 ![Banner profesional](https://github.com/user-attachments/assets/bc8b244f-8177-4f80-b829-fca94ef275f8)
+
+## ¡Hola!, bienvenido a mi perfil 👋🏻
 
 ### Acerca de mí
 
