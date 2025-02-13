@@ -107,8 +107,6 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
     <div align="center">
       <!-- «Docker» -->
       <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-      <!-- «Linux» -->
-      <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
       <!-- «AWS» -->
       <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
       <!-- «Azure» -->
