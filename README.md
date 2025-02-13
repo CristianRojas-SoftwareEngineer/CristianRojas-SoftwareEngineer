@@ -33,159 +33,104 @@ Consciente de la importancia del aprendizaje continuo, me he propuesto ampliar y
 
 Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de un libro sobre patrones de diseño de software. Mi intención es recopilar y analizar los patrones más significativos propuestos durante las últimas décadas, contribuyendo a la evolución y consolidación de buenas prácticas en la ingeniería de software.
 
-## Mi stack tecnológico  
+<h2>Mi stack tecnológico</h2>
+<table style="width: auto">
+<tr>
+  <!-- Columna 1, Fila 1: Backend -->
+  <td valign="top" width="50%">
+    <h3>Backend</h3>
+    <div align="center">
+      <!-- Lenguajes Fundamentales -->
+      <!-- JavaScript -->
+      <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+      <!-- TypeScript -->
+      <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+      <!-- Python -->
+      <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+      <!-- C# -->
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
+      <!-- Frameworks y Entornos de Desarrollo -->
+      <!-- .NET -->
+      <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>
+      <!-- Node.js -->
+      <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+      <!-- Frameworks Específicos -->
+      <!-- NestJS -->
+      <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
+      <!-- Express.js -->
+      <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
+      <!-- Flask -->
+      <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
+    </div>
+  </td>
 
-### Backend  
-<div align="center">
-  <!-- «C#» -->
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-  </a> 
-  <!-- «.NET» -->
-  <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />
-  </a>
-  <!-- «.NET Core» -->
-  <a href="https://dotnet.microsoft.com/download" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />
-  </a>
-  <!-- «Node.js» -->
-  <a href="https://nodejs.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-  </a>
-  <!-- «NestJS» -->
-  <a href="https://nestjs.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
-  </a>
-  <!-- «Express.js» -->
-  <a href="https://expressjs.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-  </a>
-  <!-- «Python» -->
-  <a href="https://www.python.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-  </a>
-  <!-- «Flask» -->
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />
-  </a>
-  <!-- «JavaScript» -->
-  <a href="https://www.javascript.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  </a>
-  <!-- «TypeScript» -->
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-  </a>
-</div>
+  <!-- Columna 2, Fila 1: Frontend -->
+  <td valign="top" width="50%">
+    <h3>Frontend</h3>
+    <div align="center">
+      <!-- Lenguajes Fundamentales -->
+      <!-- HTML5 -->
+      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+      <!-- CSS3 -->
+      <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+      <!-- JavaScript -->
+      <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+      <!-- TypeScript -->
+      <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+      <!-- Frameworks y Librerías -->
+      <!-- Angular -->
+      <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
+      <!-- Bootstrap -->
+      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
+      <!-- Tailwind CSS -->
+      <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+      <!-- Flutter -->
+      <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>
+    </div>
+  </td>
+</tr>
 
-### Frontend  
-<div align="center">
-  <!-- «Angular» -->
-  <a href="https://angular.io/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />
-  </a>
-  <!-- «HTML5» -->
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-  </a>
-  <!-- «CSS3» -->
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-  </a>
-  <!-- «JavaScript» -->
-  <a href="https://www.javascript.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  </a>
-  <!-- «TypeScript» -->
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-  </a>
-  <!-- «Bootstrap» -->
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-  </a>
-  <!-- «Tailwind CSS» -->
-  <a href="https://www.tailwindcss.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
-  </a>
-  <!-- «Material UI» -->
-  <a href="https://mui.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
-  </a>
-  <!-- «Flutter» -->
-  <a href="https://flutter.dev/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
-  </a>
-  <!-- «Ionic» -->
-  <a href="https://www.ionicframework.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" />
-  </a>
-  <!-- «jQuery» -->
-  <a href="https://jquery.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-  </a>
-</div>
+<!-- Fila 2: Database y Server & DevOps -->
+<tr>
+  <!-- Columna 1, Fila 2: Database -->
+  <td valign="top" width="50%">
+    <h3>Database</h3>
+    <div align="center">
+      <!-- PostgreSQL -->
+      <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+      <!-- MySQL -->
+      <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+      <!-- MongoDB -->
+      <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+      <!-- Redis -->
+      <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
+    </div>
+  </td>
 
-### Database  
-<div align="center">
-  <!-- «PostgreSQL» -->
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-  </a>
-  <!-- «MySQL» -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-  </a>
-  <!-- «MongoDB» -->
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-  </a>
-  <!-- «Redis» -->
-  <a href="https://redis.io/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
-  </a>
-</div>
-
-### Server & DevOps  
-<div align="center">
-  <!-- «Docker» -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-  </a>
-  <!-- «Linux» -->
-  <a href="https://www.linux.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-  </a>
-  <!-- «AWS» -->
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
-  </a>
-  <!-- «Azure» -->
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />
-  </a>
-  <!-- «Nginx» -->
-  <a href="https://www.nginx.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
-  </a>
-  <!-- «Git» -->
-  <a href="https://github.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-  </a>
-  <!-- «GitLab» -->
-  <a href="https://about.gitlab.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
-  </a>
-  <!-- «Bash» -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-  </a>
-  <!-- «PowerShell» -->
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
-  </a>
-</div>
+  <!-- Columna 2, Fila 2: Server & DevOps -->
+  <td valign="top" width="50%">
+    <h3>Server & DevOps</h3>
+    <div align="center">
+      <!-- «Docker» -->
+      <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+      <!-- «Linux» -->
+      <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+      <!-- «AWS» -->
+      <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
+      <!-- «Azure» -->
+      <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
+      <!-- «Nginx» -->
+      <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
+      <!-- «Git» -->
+      <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+      <!-- «Bash» -->
+      <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
+      <!-- «PowerShell» -->
+      <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
+    </div>
+  </td>
+</tr>
+</table>
 
 # 📊 GitHub Stats:
 <div align="center">
