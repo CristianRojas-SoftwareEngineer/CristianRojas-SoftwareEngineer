@@ -34,12 +34,12 @@ Consciente de la importancia del aprendizaje continuo, me he propuesto ampliar y
 Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de un libro sobre patrones de diseño de software. Mi intención es recopilar y analizar los patrones más significativos propuestos durante las últimas décadas, contribuyendo a la evolución y consolidación de buenas prácticas en la ingeniería de software.
 
 <h2>Mi stack tecnológico</h2>
-<table style="width: auto">
+<table style="width: 100%; table-layout: fixed;">
 <tr>
   <!-- Columna 1, Fila 1: Backend -->
-  <td valign="top" width="50%">
+  <td valign="top" style="width: 50%; padding: 15px;">
     <h3>Backend</h3>
-    <div align="center">
+    <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
       <!-- Lenguajes Fundamentales -->
       <!-- TypeScript -->
       <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
@@ -47,24 +47,20 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
       <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
       <!-- C# -->
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
-      <!-- Frameworks y Entornos de Desarrollo -->
       <!-- .NET -->
       <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>
       <!-- Node.js -->
       <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-      <!-- Frameworks Específicos -->
       <!-- NestJS -->
       <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
       <!-- Flask -->
       <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
     </div>
   </td>
-
   <!-- Columna 2, Fila 1: Frontend -->
-  <td valign="top" width="50%">
+  <td valign="top" style="width: 50%; padding: 15px;">
     <h3>Frontend</h3>
-    <div align="center">
-      <!-- Lenguajes Fundamentales -->
+    <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
       <!-- HTML5 -->
       <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
       <!-- CSS3 -->
@@ -73,7 +69,6 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
       <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
       <!-- TypeScript -->
       <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-      <!-- Frameworks y Librerías -->
       <!-- Angular -->
       <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
       <!-- Tailwind CSS -->
@@ -83,13 +78,11 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
     </div>
   </td>
 </tr>
-
-<!-- Fila 2: Database y Server & DevOps -->
 <tr>
   <!-- Columna 1, Fila 2: Database -->
-  <td valign="top" width="50%">
+  <td valign="top" style="width: 50%; padding: 15px;">
     <h3>Database</h3>
-    <div align="center">
+    <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
       <!-- PostgreSQL -->
       <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
       <!-- MySQL -->
@@ -100,24 +93,23 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
       <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
     </div>
   </td>
-
   <!-- Columna 2, Fila 2: Server & DevOps -->
-  <td valign="top" width="50%">
+  <td valign="top" style="width: 50%; padding: 15px;">
     <h3>Server & DevOps</h3>
-    <div align="center">
-      <!-- «Docker» -->
+    <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
+      <!-- Docker -->
       <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-      <!-- «AWS» -->
+      <!-- AWS -->
       <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-      <!-- «Azure» -->
+      <!-- Azure -->
       <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
-      <!-- «Nginx» -->
+      <!-- Nginx -->
       <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
-      <!-- «Git» -->
+      <!-- Git -->
       <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-      <!-- «Bash» -->
+      <!-- Bash -->
       <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-      <!-- «PowerShell» -->
+      <!-- PowerShell -->
       <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
     </div>
   </td>
