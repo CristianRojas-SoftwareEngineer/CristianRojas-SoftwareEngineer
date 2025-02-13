@@ -1,6 +1,7 @@
 # Cristian Rojas Arredondo - Ingeniero Informático
 
-![Banner](https://github.com/user-attachments/assets/cebb2cad-b566-4c8a-bcce-35d0e17b709e)
+![Banner](https://github.com/user-attachments/assets/32e9a576-ba36-48b7-9554-1ed212238d7f)
+
 
 ## ¡Hola!, bienvenido a mi perfil 👋
 
