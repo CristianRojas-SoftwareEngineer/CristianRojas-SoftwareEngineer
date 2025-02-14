@@ -1,4 +1,4 @@
-![Banner profesional](https://github.com/user-attachments/assets/eb577b12-e45d-4f58-9d2a-b5e0ebc9a607)
+![Banner Profesional - Alta definición](https://github.com/user-attachments/assets/8c4b15f3-cb6c-430f-99b1-f0df0d1e1c83)
 
 ## ¡Hola!, bienvenido a mi perfil 👋🏻
 
