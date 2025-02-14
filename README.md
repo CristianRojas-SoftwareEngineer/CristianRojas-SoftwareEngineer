@@ -127,14 +127,6 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
     >
 </div>
 
-<div style="width: 100%;">
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianRojasSoftwareDeveloper&theme=swift&hide_border=false&include_all_commits=false&count_private=false&card_width=1000" 
-        alt="GitHub Stats" 
-        style="display: block;"
-    >
-</div>
-
 ## 🌐 Contáctame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-rojas-software-engineer)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cristian.rojas.software.engineer@gmail.com)
