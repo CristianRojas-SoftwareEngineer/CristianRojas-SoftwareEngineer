@@ -1,4 +1,4 @@
-![Banner Profesional - Diseño Claro - Alta Definición](https://github.com/user-attachments/assets/cb61cd95-c917-42b3-b22c-2ff5d168abf3)
+![Banner Profesional - Diseño Claro - Alta Definición](https://github.com/user-attachments/assets/0f0847b9-e9b3-4ee0-8c3d-6fbfe98a8caf)
 
 ## ¡Hola!, bienvenido a mi perfil 👋🏻
 
