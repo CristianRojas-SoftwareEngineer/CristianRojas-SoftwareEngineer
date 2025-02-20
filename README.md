@@ -1,7 +1,5 @@
 ![Banner Profesional - Diseño Claro - Alta Definición](https://github.com/user-attachments/assets/0f0847b9-e9b3-4ee0-8c3d-6fbfe98a8caf)
 
-![Banner Profesional - Diseño Claro - Alta Definición](https://i.ibb.co/yvQmNNk/Banner-Profesional-Dise-o-Claro-Alta-Definici-n.png)
-
 ## ¡Hola!, bienvenido a mi perfil 👋🏻
 
 ### Acerca de mí
