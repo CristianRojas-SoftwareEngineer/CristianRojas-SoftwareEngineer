@@ -94,10 +94,6 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
       <!-- Redis -->
       <a href="https://redis.io/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
       <!-- Azure Cosmos DB -->
-      <a href="https://learn.microsoft.com/es-es/azure/cosmos-db/"><img style="margin: 10px" src="https://i.ibb.co/SXmXdsWt/Azure-Cosmos-DB.png" alt="Azure Cosmos DB" height="50" /></a>
-      <!-- Azure Search -->
-      <a href="https://learn.microsoft.com/es-es/azure/search/"><img style="margin: 10px" src="https://i.ibb.co/XkkcDrLy/Azure-Search.png" alt="Azure Search" height="50" /></a>
-      <!-- Azure Cosmos DB -->
       <a href="https://learn.microsoft.com/es-es/azure/cosmos-db/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740084433/Azure_Cosmos_DB_ztivex.png" alt="Azure Cosmos DB" height="50" /></a>
       <!-- Azure Search -->
       <a href="https://learn.microsoft.com/es-es/azure/search/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740084432/Azure_Search_vpphrs.png" alt="Azure Search" height="50" /></a>
