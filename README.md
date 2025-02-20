@@ -1,5 +1,7 @@
 ![Banner Profesional - Diseño Claro - Alta Definición](https://github.com/user-attachments/assets/0f0847b9-e9b3-4ee0-8c3d-6fbfe98a8caf)
 
+![Banner Profesional - Diseño Claro - Alta Definición](https://i.ibb.co/yvQmNNk/Banner-Profesional-Dise-o-Claro-Alta-Definici-n.png)
+
 ## ¡Hola!, bienvenido a mi perfil 👋🏻
 
 ### Acerca de mí
@@ -94,11 +96,9 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
       <!-- Redis -->
       <a href="https://redis.io/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
       <!-- Azure Cosmos DB -->
-      <a href="https://learn.microsoft.com/es-es/azure/cosmos-db/"><img style="margin: 10px" src="https://github.com/user-attachments/assets/f384b1fb-81fb-4af9-a733-378327a0aea2" alt="Azure Cosmos DB" height="50" /></a>
-      <!-- Azure Cosmos DB -->
       <a href="https://learn.microsoft.com/es-es/azure/cosmos-db/"><img style="margin: 10px" src="https://i.ibb.co/SXmXdsWt/Azure-Cosmos-DB.png" alt="Azure Cosmos DB" height="50" /></a>
       <!-- Azure Search -->
-      <a href="https://learn.microsoft.com/es-es/azure/search/"><img style="margin: 10px" src="https://github.com/user-attachments/assets/1b18ccf0-f151-40c0-90c9-026e980c2988" alt="Azure Search" height="50" /></a>
+      <a href="https://learn.microsoft.com/es-es/azure/search/"><img style="margin: 10px" src="https://i.ibb.co/XkkcDrLy/Azure-Search.png" alt="Azure Search" height="50" /></a>
     </div>
   </td>
   <!-- Columna 2, Fila 2: Server & DevOps -->
