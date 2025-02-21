@@ -81,7 +81,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
 <tr>
   <!-- Columna 1, Fila 2: Database -->
   <td valign="top" style="width: 50%; padding: 15px;">
-    <h3>Database</h3>
+    <h3>Bases de datos</h3>
     <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
       <!-- MongoDB -->
       <a href="https://www.mongodb.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740101309/MongoDB_d7qzlu.png" alt="MongoDB" height="62" /></a>
@@ -99,7 +99,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
   </td>
   <!-- Columna 2, Fila 2: Infrastructure -->
   <td valign="top" style="width: 50%; padding: 15px;">
-    <h3>Infrastructure</h3>
+    <h3>Infraestructura</h3>
     <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
       <!-- Git -->
       <a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="62" /></a>
