@@ -41,22 +41,18 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
     <h3>Backend</h3>
     <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
       <!-- Lenguajes Fundamentales -->
-      <!-- JavaScript -->
-      <a href="https://www.javascript.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098798/JavaScript_h918th.png" alt="JavaScript" height="50" /></a>
-      <!-- TypeScript -->
-      <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098799/TypeScript_amnuil.png" alt="TypeScript" height="50" /></a>
-      <!-- Python -->
-      <a href="https://www.python.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
       <!-- C# -->
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
       <!-- .NET -->
       <a href="https://dotnet.microsoft.com/download/dotnet-framework"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>
-      <!-- Node.js -->
-      <a href="https://nodejs.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+      <!-- TypeScript -->
+      <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098799/TypeScript_amnuil.png" alt="TypeScript" height="50" /></a>
       <!-- NestJS -->
       <a href="https://nestjs.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
+      <!-- Python -->
+      <a href="https://www.python.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
       <!-- Flask -->
-      <a href="https://flask.palletsprojects.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
+      <a href="https://flask.palletsprojects.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740103491/Flask_qwry37.png" alt="Flask" height="50" /></a>
     </div>
   </td>
   <!-- Columna 2, Fila 1: Frontend -->
