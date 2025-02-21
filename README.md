@@ -38,85 +38,62 @@ Consciente de la importancia del aprendizaje continuo, me he propuesto ampliar y
 Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de un libro sobre patrones de diseño de software. Mi intención es recopilar y analizar los patrones más significativos propuestos durante las últimas décadas, contribuyendo a la evolución y consolidación de buenas prácticas en la ingeniería de software.
 
 <h2>Mi stack tecnológico</h2>
-<table style="width: 100%; table-layout: fixed;">
-<tr>
-  <!-- Columna 1, Fila 1: Backend -->
-  <td valign="top" style="width: 50%; padding: 15px;">
-    <h3>Backend</h3>
-    <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
-      <!-- Lenguajes Fundamentales -->
-      <!-- C# -->
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/1-_C_-_Tagged_q8vek6.png" alt="C#" height="62" /></a>
-      <!-- .NET -->
-      <a href="https://dotnet.microsoft.com/download/dotnet-framework"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/2-_.NET_Platform_-_Tagged_schvq7.png" alt=".NET" height="62" /></a>
-      <!-- TypeScript -->
-      <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/3-_TypeScript_-_Tagged_te2g5p.png" alt="TypeScript" height="62" /></a>
-      <!-- NestJS -->
-      <a href="https://nestjs.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/4-_NestJS_-_Tagged_aezbf9.png" alt="NestJS" height="62" /></a>
-      <!-- Python -->
-      <a href="https://www.python.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162861/5-_Python_-_Tagged_yjj25g.png" alt="Python" height="62" /></a>
-      <!-- Flask -->
-      <a href="https://flask.palletsprojects.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/6-_Flask_-_Tagged_r5a94m.png" alt="Flask" height="62" /></a>
-    </div>
-  </td>
-  <!-- Columna 2, Fila 1: Frontend -->
-  <td valign="top" style="width: 50%; padding: 15px;">
-    <h3>Frontend</h3>
-    <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
-      <!-- HTML5 -->
-      <a href="https://en.wikipedia.org/wiki/HTML5"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="62" /></a>
-      <!-- CSS3 -->
-      <a href="https://www.w3schools.com/css/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="62" /></a>
-      <!-- Tailwind CSS -->
-      <a href="https://www.tailwindcss.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="62" /></a>
-      <!-- JavaScript -->
-      <a href="https://www.javascript.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098798/JavaScript_h918th.png" alt="JavaScript" height="62" /></a>
-      <!-- TypeScript -->
-      <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098799/TypeScript_amnuil.png" alt="TypeScript" height="62" /></a>
-      <!-- Angular -->
-      <a href="https://angular.io/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="62" /></a>
-    </div>
-  </td>
-</tr>
-<tr>
-  <!-- Columna 1, Fila 2: Database -->
-  <td valign="top" style="width: 50%; padding: 15px;">
-    <h3>Bases de datos</h3>
-    <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
-      <!-- MongoDB -->
-      <a href="https://www.mongodb.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740101309/MongoDB_d7qzlu.png" alt="MongoDB" height="62" /></a>
-      <!-- MySQL -->
-      <a href="https://www.mysql.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740099518/MySQL_zc0vj2.png" alt="MySQL" height="62" /></a>
-      <!-- PostgreSQL -->
-      <a href="https://www.postgresql.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="62" /></a>
-      <!-- Azure Cosmos DB -->
-      <a href="https://learn.microsoft.com/es-es/azure/cosmos-db/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740095864/Azure_Cosmos_DB_ygbtcy.png" alt="Azure Cosmos DB" height="62" /></a>
-      <!-- Azure Cache for Redis -->
-      <a href="https://redis.io/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740097402/Azure_Redis_Cache_yhvorc.png" alt="Redis" height="62" /></a>
-      <!-- Azure Search -->
-      <a href="https://learn.microsoft.com/es-es/azure/search/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740095865/Azure_Search_haqmwg.png" alt="Azure Search" height="62" /></a>
-    </div>
-  </td>
-  <!-- Columna 2, Fila 2: Infrastructure -->
-  <td valign="top" style="width: 50%; padding: 15px;">
-    <h3>Infraestructura</h3>
-    <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
-      <!-- Git -->
-      <a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="62" /></a>
-      <!-- Docker -->
-      <a href="https://www.docker.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="62" /></a>
-      <!-- Nginx -->
-      <a href="https://www.nginx.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="62" /></a>
-      <!-- Bash -->
-      <a href="https://www.gnu.org/software/bash/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="62" /></a>
-      <!-- PowerShell -->
-      <a href="https://docs.microsoft.com/en-us/powershell/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="62" /></a>
-      <!-- Azure -->
-      <a href="https://azure.microsoft.com/en-in/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="62" /></a>
-    </div>
-  </td>
-</tr>
-</table>
+<div align="center">
+  <table style="width: auto; table-layout: fixed;">
+    <tr>
+      <td valign="top" style="padding: 15px;">
+        <h3>Backend</h3>
+        <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
+          <!-- «C#» --> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/1-_C_-_Tagged_q8vek6.png" alt="C#" height="100" /></a>
+          <!-- «.NET» --> <a href="https://dotnet.microsoft.com/download/dotnet-framework"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/2-_.NET_Platform_-_Tagged_schvq7.png" alt=".NET" height="100" /></a>
+          <!-- «TypeScript» --> <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/3-_TypeScript_-_Tagged_te2g5p.png" alt="TypeScript" height="100" /></a>
+          <!-- «NestJS» --> <a href="https://nestjs.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/4-_NestJS_-_Tagged_aezbf9.png" alt="NestJS" height="100" /></a>
+          <!-- «Python» --> <a href="https://www.python.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162861/5-_Python_-_Tagged_yjj25g.png" alt="Python" height="100" /></a>
+          <!-- «Flask» --> <a href="https://flask.palletsprojects.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/6-_Flask_-_Tagged_r5a94m.png" alt="Flask" height="100" /></a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" style="padding: 15px;">
+        <h3>Frontend</h3>
+        <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
+          <!-- «HTML5» --> <a href="https://en.wikipedia.org/wiki/HTML5"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="100" /></a>
+          <!-- «CSS3» --> <a href="https://www.w3schools.com/css/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="100" /></a>
+          <!-- «Tailwind CSS» --> <a href="https://www.tailwindcss.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="100" /></a>
+          <!-- «JavaScript» --> <a href="https://www.javascript.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098798/JavaScript_h918th.png" alt="JavaScript" height="100" /></a>
+          <!-- «TypeScript» --> <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098799/TypeScript_amnuil.png" alt="TypeScript" height="100" /></a>
+          <!-- «Angular» --> <a href="https://angular.io/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="100" /></a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" style="padding: 15px;">
+        <h3>Bases de datos</h3>
+        <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
+          <!-- «MongoDB» --> <a href="https://www.mongodb.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740101309/MongoDB_d7qzlu.png" alt="MongoDB" height="100" /></a>
+          <!-- «MySQL» --> <a href="https://www.mysql.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740099518/MySQL_zc0vj2.png" alt="MySQL" height="100" /></a>
+          <!-- «PostgreSQL» --> <a href="https://www.postgresql.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="100" /></a>
+          <!-- «Azure Cosmos DB» --> <a href="https://learn.microsoft.com/es-es/azure/cosmos-db/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740095864/Azure_Cosmos_DB_ygbtcy.png" alt="Azure Cosmos DB" height="100" /></a>
+          <!-- «Azure Cache for Redis» --> <a href="https://redis.io/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740097402/Azure_Redis_Cache_yhvorc.png" alt="Redis" height="100" /></a>
+          <!-- «Azure Search» --> <a href="https://learn.microsoft.com/es-es/azure/search/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740095865/Azure_Search_haqmwg.png" alt="Azure Search" height="100" /></a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" style="padding: 15px;">
+        <h3>Infraestructura</h3>
+        <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
+          <!-- «Git» --> <a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="100" /></a>
+          <!-- «Docker» --> <a href="https://www.docker.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="100" /></a>
+          <!-- «Nginx» --> <a href="https://www.nginx.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="100" /></a>
+          <!-- «Bash» --> <a href="https://www.gnu.org/software/bash/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="100" /></a>
+          <!-- «PowerShell» --> <a href="https://docs.microsoft.com/en-us/powershell/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="100" /></a>
+          <!-- «Azure» --> <a href="https://azure.microsoft.com/en-in/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="100" /></a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 # 📊 Mis estadísticas en GitHub:
 <div style="width: 100%;">
