@@ -42,30 +42,19 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
   <table>
     <tr>
       <td>
-        <h2>Backend</h2>
+        <h2>Infraestructura</h2>
         <div>
-          <!-- «C#» --> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/1-_C_-_Tagged_q8vek6.png" alt="C#" height="100" /></a>
-          <!-- «.NET» --> <a href="https://dotnet.microsoft.com/download/dotnet-framework"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/2-_.NET_Platform_-_Tagged_schvq7.png" alt=".NET" height="100" /></a>
-          <!-- «TypeScript» --> <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/3-_TypeScript_-_Tagged_te2g5p.png" alt="TypeScript" height="100" /></a>
-          <!-- «NestJS» --> <a href="https://nestjs.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/4-_NestJS_-_Tagged_aezbf9.png" alt="NestJS" height="100" /></a>
-          <!-- «Python» --> <a href="https://www.python.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162861/5-_Python_-_Tagged_yjj25g.png" alt="Python" height="100" /></a>
-          <!-- «Flask» --> <a href="https://flask.palletsprojects.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/6-_Flask_-_Tagged_r5a94m.png" alt="Flask" height="100" /></a>
+          <!-- «Git» --> <a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="124" /></a>
+          <!-- «Docker» --> <a href="https://www.docker.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="124" /></a>
+          <!-- «Nginx» --> <a href="https://www.nginx.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="124" /></a>
+          <!-- «Bash» --> <a href="https://www.gnu.org/software/bash/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="124" /></a>
+          <!-- «PowerShell» --> <a href="https://docs.microsoft.com/en-us/powershell/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="124" /></a>
+          <!-- «Azure» --> <a href="https://azure.microsoft.com/en-in/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="124" /></a>
         </div>
       </td>
     </tr>
-    <tr>
-      <td>
-        <h2>Frontend</h2>
-        <div>
-          <!-- «HTML5» --> <a href="https://en.wikipedia.org/wiki/HTML5"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="100" /></a>
-          <!-- «CSS3» --> <a href="https://www.w3schools.com/css/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="100" /></a>
-          <!-- «Tailwind CSS» --> <a href="https://www.tailwindcss.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="100" /></a>
-          <!-- «JavaScript» --> <a href="https://www.javascript.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098798/JavaScript_h918th.png" alt="JavaScript" height="100" /></a>
-          <!-- «TypeScript» --> <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098799/TypeScript_amnuil.png" alt="TypeScript" height="100" /></a>
-          <!-- «Angular» --> <a href="https://angular.io/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="100" /></a>
-        </div>
-      </td>
-    </tr>
+  </table>   
+  <table>
     <tr>
       <td>
         <h2>Bases de datos</h2>
@@ -79,16 +68,33 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
         </div>
       </td>
     </tr>
+  </table>
+  <table>
     <tr>
       <td>
-        <h2>Infraestructura</h2>
+        <h2>Backend</h2>
         <div>
-          <!-- «Git» --> <a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="100" /></a>
-          <!-- «Docker» --> <a href="https://www.docker.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="100" /></a>
-          <!-- «Nginx» --> <a href="https://www.nginx.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="100" /></a>
-          <!-- «Bash» --> <a href="https://www.gnu.org/software/bash/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="100" /></a>
-          <!-- «PowerShell» --> <a href="https://docs.microsoft.com/en-us/powershell/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="100" /></a>
-          <!-- «Azure» --> <a href="https://azure.microsoft.com/en-in/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="100" /></a>
+          <!-- «C#» --> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/1-_C_-_Tagged_q8vek6.png" alt="C#" height="124" /></a>
+          <!-- «.NET» --> <a href="https://dotnet.microsoft.com/download/dotnet-framework"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/2-_.NET_Platform_-_Tagged_schvq7.png" alt=".NET" height="124" /></a>
+          <!-- «TypeScript» --> <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/3-_TypeScript_-_Tagged_te2g5p.png" alt="TypeScript" height="124" /></a>
+          <!-- «NestJS» --> <a href="https://nestjs.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/4-_NestJS_-_Tagged_aezbf9.png" alt="NestJS" height="124" /></a>
+          <!-- «Python» --> <a href="https://www.python.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162861/5-_Python_-_Tagged_yjj25g.png" alt="Python" height="124" /></a>
+          <!-- «Flask» --> <a href="https://flask.palletsprojects.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/6-_Flask_-_Tagged_r5a94m.png" alt="Flask" height="124" /></a>
+        </div>
+      </td>
+    </tr>
+  </table>    
+  <table>
+    <tr>
+      <td>
+        <h2 style="margin-top: 0px;">Frontend</h2>
+        <div>
+          <!-- «HTML5» --> <a href="https://en.wikipedia.org/wiki/HTML5"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="100" /></a>
+          <!-- «CSS3» --> <a href="https://www.w3schools.com/css/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="100" /></a>
+          <!-- «Tailwind CSS» --> <a href="https://www.tailwindcss.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="100" /></a>
+          <!-- «JavaScript» --> <a href="https://www.javascript.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098798/JavaScript_h918th.png" alt="JavaScript" height="100" /></a>
+          <!-- «TypeScript» --> <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098799/TypeScript_amnuil.png" alt="TypeScript" height="100" /></a>
+          <!-- «Angular» --> <a href="https://angular.io/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="100" /></a>
         </div>
       </td>
     </tr>
