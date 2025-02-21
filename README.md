@@ -1,6 +1,6 @@
 ![Banner Profesional - Diseño Claro - Alta Definición](https://res.cloudinary.com/dqdvzzemd/image/upload/v1740083888/Banner_Profesional_-_Dise%C3%B1o_Claro_-_Alta_Definici%C3%B3n_mcgoiv.png)
 
-## ¡Hola!, bienvenido a mi perfil 👋🏻
+## ¡Hola!, bienvenido a mi perfil en GitHub 👋🏻
 
 ### Acerca de mí
 
