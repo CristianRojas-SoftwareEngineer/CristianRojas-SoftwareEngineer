@@ -37,19 +37,25 @@ Consciente de la importancia del aprendizaje continuo, me he propuesto ampliar y
 
 Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de un libro sobre patrones de diseño de software. Mi intención es recopilar y analizar los patrones más significativos propuestos durante las últimas décadas, contribuyendo a la evolución y consolidación de buenas prácticas en la ingeniería de software.
 
-<h2>Mi stack tecnológico</h2>
+<h1>Mi stack tecnológico</h1>
 <div align="center">
   <table>
     <tr>
       <td>
         <h2>Infraestructura</h2>
         <div>
-          <!-- «Git» --> <a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="125" /></a>
-          <!-- «Docker» --> <a href="https://www.docker.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="125" /></a>
-          <!-- «Nginx» --> <a href="https://www.nginx.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="125" /></a>
-          <!-- «Bash» --> <a href="https://www.gnu.org/software/bash/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="125" /></a>
-          <!-- «PowerShell» --> <a href="https://docs.microsoft.com/en-us/powershell/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="125" /></a>
-          <!-- «Azure» --> <a href="https://azure.microsoft.com/en-in/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="125" /></a>
+          <!-- «Git» -->
+          <a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="126"/></a>
+          <!-- «Docker» -->
+          <a href="https://www.docker.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="126"/></a>
+          <!-- «Nginx» -->
+          <a href="https://www.nginx.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="126"/></a>
+          <!-- «Bash» -->
+          <a href="https://www.gnu.org/software/bash/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="126"/></a>
+          <!-- «PowerShell» -->
+          <a href="https://docs.microsoft.com/en-us/powershell/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="126"/></a>
+          <!-- «Azure» -->
+          <a href="https://azure.microsoft.com/en-in/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="126"/></a>
         </div>
       </td>
     </tr>
@@ -59,12 +65,18 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
       <td>
         <h2>Bases de datos</h2>
         <div>
-          <!-- «MongoDB» --> <a href="https://www.mongodb.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740101309/MongoDB_d7qzlu.png" alt="MongoDB" height="125" /></a>
-          <!-- «MySQL» --> <a href="https://www.mysql.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740099518/MySQL_zc0vj2.png" alt="MySQL" height="125" /></a>
-          <!-- «PostgreSQL» --> <a href="https://www.postgresql.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="125" /></a>
-          <!-- «Azure Cosmos DB» --> <a href="https://learn.microsoft.com/es-es/azure/cosmos-db/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740095864/Azure_Cosmos_DB_ygbtcy.png" alt="Azure Cosmos DB" height="125" /></a>
-          <!-- «Azure Cache for Redis» --> <a href="https://redis.io/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740097402/Azure_Redis_Cache_yhvorc.png" alt="Redis" height="125" /></a>
-          <!-- «Azure Search» --> <a href="https://learn.microsoft.com/es-es/azure/search/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740095865/Azure_Search_haqmwg.png" alt="Azure Search" height="125" /></a>
+          <!-- «MongoDB» -->
+          <a href="https://www.mongodb.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740101309/MongoDB_d7qzlu.png" alt="MongoDB" height="127"/></a>
+          <!-- «MySQL» -->
+          <a href="https://www.mysql.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740099518/MySQL_zc0vj2.png" alt="MySQL" height="127"/></a>
+          <!-- «PostgreSQL» -->
+          <a href="https://www.postgresql.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="127"/></a>
+          <!-- «Azure Cosmos DB» -->
+          <a href="https://learn.microsoft.com/es-es/azure/cosmos-db/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740095864/Azure_Cosmos_DB_ygbtcy.png" alt="Azure Cosmos DB" height="127"/></a>
+          <!-- «Azure Cache for Redis» -->
+          <a href="https://redis.io/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740097402/Azure_Redis_Cache_yhvorc.png" alt="Redis" height="127"/></a>
+          <!-- «Azure Search» -->
+          <a href="https://learn.microsoft.com/es-es/azure/search/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740095865/Azure_Search_haqmwg.png" alt="Azure Search" height="127"/></a>
         </div>
       </td>
     </tr>
@@ -74,12 +86,18 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
       <td>
         <h2>Backend</h2>
         <div>
-          <!-- «C#» --> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/1-_C_-_Tagged_q8vek6.png" alt="C#" height="125" /></a>
-          <!-- «.NET» --> <a href="https://dotnet.microsoft.com/download/dotnet-framework"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/2-_.NET_Platform_-_Tagged_schvq7.png" alt=".NET" height="125" /></a>
-          <!-- «TypeScript» --> <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/3-_TypeScript_-_Tagged_te2g5p.png" alt="TypeScript" height="125" /></a>
-          <!-- «NestJS» --> <a href="https://nestjs.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/4-_NestJS_-_Tagged_aezbf9.png" alt="NestJS" height="125" /></a>
-          <!-- «Python» --> <a href="https://www.python.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162861/5-_Python_-_Tagged_yjj25g.png" alt="Python" height="125" /></a>
-          <!-- «Flask» --> <a href="https://flask.palletsprojects.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/6-_Flask_-_Tagged_r5a94m.png" alt="Flask" height="125" /></a>
+          <!-- «C#» -->
+          <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/1-_C_-_Tagged_q8vek6.png" alt="C#" height="128"/></a>
+          <!-- «.NET» -->
+          <a href="https://dotnet.microsoft.com/download/dotnet-framework"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/2-_.NET_Platform_-_Tagged_schvq7.png" alt=".NET" height="128"/></a>
+          <!-- «TypeScript» -->
+          <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/3-_TypeScript_-_Tagged_te2g5p.png" alt="TypeScript" height="128"/></a>
+          <!-- «NestJS» -->
+          <a href="https://nestjs.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/4-_NestJS_-_Tagged_aezbf9.png" alt="NestJS" height="128"/></a>
+          <!-- «Python» -->
+          <a href="https://www.python.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162861/5-_Python_-_Tagged_yjj25g.png" alt="Python" height="128"/></a>
+          <!-- «Flask» -->
+          <a href="https://flask.palletsprojects.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/6-_Flask_-_Tagged_r5a94m.png" alt="Flask" height="128"/></a>
         </div>
       </td>
     </tr>
@@ -89,12 +107,18 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
       <td>
         <h2 style="margin-top: 0px;">Frontend</h2>
         <div>
-          <!-- «HTML5» --> <a href="https://en.wikipedia.org/wiki/HTML5"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="125" /></a>
-          <!-- «CSS3» --> <a href="https://www.w3schools.com/css/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="125" /></a>
-          <!-- «Tailwind CSS» --> <a href="https://www.tailwindcss.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="125" /></a>
-          <!-- «JavaScript» --> <a href="https://www.javascript.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098798/JavaScript_h918th.png" alt="JavaScript" height="125" /></a>
-          <!-- «TypeScript» --> <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098799/TypeScript_amnuil.png" alt="TypeScript" height="125" /></a>
-          <!-- «Angular» --> <a href="https://angular.io/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="125" /></a>
+          <!-- «HTML5» -->
+          <a href="https://en.wikipedia.org/wiki/HTML5"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="129"/></a>
+          <!-- «CSS3» -->
+          <a href="https://www.w3schools.com/css/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="129"/></a>
+          <!-- «Tailwind CSS» -->
+          <a href="https://www.tailwindcss.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="129"/></a>
+          <!-- «JavaScript» -->
+          <a href="https://www.javascript.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098798/JavaScript_h918th.png" alt="JavaScript" height="129"/></a>
+          <!-- «TypeScript» -->
+          <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098799/TypeScript_amnuil.png" alt="TypeScript" height="129"/></a>
+          <!-- «Angular» -->
+          <a href="https://angular.io/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="129"/></a>
         </div>
       </td>
     </tr>
