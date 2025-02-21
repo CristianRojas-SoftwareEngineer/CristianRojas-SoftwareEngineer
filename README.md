@@ -28,6 +28,8 @@ Consciente de la importancia del aprendizaje continuo, me he propuesto ampliar y
 
 - **AWS**: Profundizar en servicios y arquitectura on cloud para diseñar soluciones escalables y resilientes.
 - **Inglés**: Alcanzar y certificar niveles avanzados (B2 y C1) que faciliten la comunicación en entornos internacionales y el acceso a fuentes globales de conocimiento.
+- **Grafana**: 
+- **Terraform**: 
 
 ### 6. Objetivos a mediano y largo plazo
 
