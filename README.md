@@ -26,10 +26,12 @@ Estoy siempre dispuesto a compartir mi experiencia en arquitectura y desarrollo 
 
 Consciente de la importancia del aprendizaje continuo, me he propuesto ampliar y certificar mis conocimientos en áreas clave que potencien mi crecimiento profesional. Durante el año 2025, trabajaré en:
 
+- **Kafka**: 
+- **RabbitMQ**: 
+- **Terraform**: 
+- **Grafana**: 
 - **AWS**: Profundizar en servicios y arquitectura on cloud para diseñar soluciones escalables y resilientes.
 - **Inglés**: Alcanzar y certificar niveles avanzados (B2 y C1) que faciliten la comunicación en entornos internacionales y el acceso a fuentes globales de conocimiento.
-- **Grafana**: 
-- **Terraform**: 
 
 ### 6. Objetivos a mediano y largo plazo
 
