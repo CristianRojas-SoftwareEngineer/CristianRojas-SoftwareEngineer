@@ -45,17 +45,17 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
         <h2>Infraestructura</h2>
         <div>
           <!-- «Git» -->
-          <a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="126"/></a>
+          <a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="150"/></a>
           <!-- «Docker» -->
-          <a href="https://www.docker.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="126"/></a>
+          <a href="https://www.docker.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="150"/></a>
           <!-- «Nginx» -->
-          <a href="https://www.nginx.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="126"/></a>
+          <a href="https://www.nginx.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="150"/></a>
           <!-- «Bash» -->
-          <a href="https://www.gnu.org/software/bash/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="126"/></a>
+          <a href="https://www.gnu.org/software/bash/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="150"/></a>
           <!-- «PowerShell» -->
-          <a href="https://docs.microsoft.com/en-us/powershell/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="126"/></a>
+          <a href="https://docs.microsoft.com/en-us/powershell/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="150"/></a>
           <!-- «Azure» -->
-          <a href="https://azure.microsoft.com/en-in/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="126"/></a>
+          <a href="https://azure.microsoft.com/en-in/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="150"/></a>
         </div>
       </td>
     </tr>
