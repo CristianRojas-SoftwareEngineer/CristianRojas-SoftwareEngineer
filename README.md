@@ -46,17 +46,17 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
     <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
       <!-- Lenguajes Fundamentales -->
       <!-- C# -->
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="62" /></a>
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/1-_C_-_Tagged_q8vek6.png" alt="C#" height="62" /></a>
       <!-- .NET -->
-      <a href="https://dotnet.microsoft.com/download/dotnet-framework"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="62" /></a>
+      <a href="https://dotnet.microsoft.com/download/dotnet-framework"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/2-_.NET_Platform_-_Tagged_schvq7.png" alt=".NET" height="62" /></a>
       <!-- TypeScript -->
-      <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098799/TypeScript_amnuil.png" alt="TypeScript" height="62" /></a>
+      <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/3-_TypeScript_-_Tagged_te2g5p.png" alt="TypeScript" height="62" /></a>
       <!-- NestJS -->
-      <a href="https://nestjs.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="62" /></a>
+      <a href="https://nestjs.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/4-_NestJS_-_Tagged_aezbf9.png" alt="NestJS" height="62" /></a>
       <!-- Python -->
-      <a href="https://www.python.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="62" /></a>
+      <a href="https://www.python.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162861/5-_Python_-_Tagged_yjj25g.png" alt="Python" height="62" /></a>
       <!-- Flask -->
-      <a href="https://flask.palletsprojects.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740103491/Flask_qwry37.png" alt="Flask" height="62" /></a>
+      <a href="https://flask.palletsprojects.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/6-_Flask_-_Tagged_r5a94m.png" alt="Flask" height="62" /></a>
     </div>
   </td>
   <!-- Columna 2, Fila 1: Frontend -->
