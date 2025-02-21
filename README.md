@@ -71,8 +71,6 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
       <a href="https://angular.io/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
       <!-- Tailwind CSS -->
       <a href="https://www.tailwindcss.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-      <!-- Flutter -->
-      <a href="https://flutter.dev/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>
     </div>
   </td>
 </tr>
