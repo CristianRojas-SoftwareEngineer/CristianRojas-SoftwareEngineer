@@ -42,9 +42,9 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
     <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
       <!-- Lenguajes Fundamentales -->
       <!-- JavaScript -->
-      <a href="https://www.javascript.com/"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" /></a>
+      <a href="https://www.javascript.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098798/JavaScript_h918th.png" alt="JavaScript" height="50" /></a>
       <!-- TypeScript -->
-      <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+      <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098799/TypeScript_amnuil.png" alt="TypeScript" height="50" /></a>
       <!-- Python -->
       <a href="https://www.python.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
       <!-- C# -->
@@ -68,9 +68,9 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
       <!-- CSS3 -->
       <a href="https://www.w3schools.com/css/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
       <!-- JavaScript -->
-      <a href="https://www.javascript.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+      <a href="https://www.javascript.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098798/JavaScript_h918th.png" alt="JavaScript" height="50" /></a>
       <!-- TypeScript -->
-      <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+      <a href="https://www.typescriptlang.org/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098799/TypeScript_amnuil.png" alt="TypeScript" height="50" /></a>
       <!-- Angular -->
       <a href="https://angular.io/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
       <!-- Tailwind CSS -->
