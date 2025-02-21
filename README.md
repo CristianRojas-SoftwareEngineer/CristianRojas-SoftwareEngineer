@@ -66,7 +66,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
         <h2>Bases de datos</h2>
         <div>
           <!-- «MongoDB» -->
-          <a href="https://www.mongodb.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740101309/MongoDB_d7qzlu.png" alt="MongoDB" height="133"/></a>
+          <a href="https://www.mongodb.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740173173/1-_MongoDB_-_Tagged_e3qn8i.png" alt="MongoDB" height="133"/></a>
           <!-- «MySQL» -->
           <a href="https://www.mysql.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740099518/MySQL_zc0vj2.png" alt="MySQL" height="133"/></a>
           <!-- «PostgreSQL» -->
@@ -87,7 +87,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
         <h2>Backend</h2>
         <div>
           <!-- «C#» -->
-          <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/1-_C_-_Tagged_q8vek6.png" alt="C#" height="133"/></a>
+          <a href="https://docs.microsoft.com/es/dotnet/csharp/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/1-_C_-_Tagged_q8vek6.png" alt="C#" height="133"/></a>
           <!-- «.NET» -->
           <a href="https://dotnet.microsoft.com/download/dotnet-framework"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/2-_.NET_Platform_-_Tagged_schvq7.png" alt=".NET" height="133"/></a>
           <!-- «TypeScript» -->
