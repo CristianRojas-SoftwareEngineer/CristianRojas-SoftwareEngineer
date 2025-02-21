@@ -93,22 +93,22 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
       <a href="https://learn.microsoft.com/es-es/azure/search/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740095865/Azure_Search_haqmwg.png" alt="Azure Search" height="62" /></a>
     </div>
   </td>
-  <!-- Columna 2, Fila 2: Server & DevOps -->
+  <!-- Columna 2, Fila 2: Infrastructure -->
   <td valign="top" style="width: 50%; padding: 15px;">
-    <h3>Server & DevOps</h3>
+    <h3>Infrastructure</h3>
     <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; width: 100%; overflow-x: auto;">
-      <!-- Docker -->
-      <a href="https://www.docker.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="62" /></a>
-      <!-- Azure -->
-      <a href="https://azure.microsoft.com/en-in/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="62" /></a>
-      <!-- Nginx -->
-      <a href="https://www.nginx.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="62" /></a>
       <!-- Git -->
       <a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="62" /></a>
+      <!-- Docker -->
+      <a href="https://www.docker.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="62" /></a>
+      <!-- Nginx -->
+      <a href="https://www.nginx.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="62" /></a>
       <!-- Bash -->
       <a href="https://www.gnu.org/software/bash/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="62" /></a>
       <!-- PowerShell -->
       <a href="https://docs.microsoft.com/en-us/powershell/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="62" /></a>
+      <!-- Azure -->
+      <a href="https://azure.microsoft.com/en-in/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="62" /></a>
     </div>
   </td>
 </tr>
