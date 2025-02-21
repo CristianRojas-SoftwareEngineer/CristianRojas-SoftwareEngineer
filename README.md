@@ -42,7 +42,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
   <table>
     <tr>
       <td>
-        <h3>Backend</h3>
+        <h2>Backend</h2>
         <div>
           <!-- «C#» --> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/1-_C_-_Tagged_q8vek6.png" alt="C#" height="100" /></a>
           <!-- «.NET» --> <a href="https://dotnet.microsoft.com/download/dotnet-framework"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/2-_.NET_Platform_-_Tagged_schvq7.png" alt=".NET" height="100" /></a>
@@ -55,7 +55,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
     </tr>
     <tr>
       <td>
-        <h3>Frontend</h3>
+        <h2>Frontend</h2>
         <div>
           <!-- «HTML5» --> <a href="https://en.wikipedia.org/wiki/HTML5"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="100" /></a>
           <!-- «CSS3» --> <a href="https://www.w3schools.com/css/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="100" /></a>
@@ -68,7 +68,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
     </tr>
     <tr>
       <td>
-        <h3>Bases de datos</h3>
+        <h2>Bases de datos</h2>
         <div>
           <!-- «MongoDB» --> <a href="https://www.mongodb.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740101309/MongoDB_d7qzlu.png" alt="MongoDB" height="100" /></a>
           <!-- «MySQL» --> <a href="https://www.mysql.com/"><img style="margin: 10px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740099518/MySQL_zc0vj2.png" alt="MySQL" height="100" /></a>
@@ -81,7 +81,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
     </tr>
     <tr>
       <td>
-        <h3>Infraestructura</h3>
+        <h2>Infraestructura</h2>
         <div>
           <!-- «Git» --> <a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="100" /></a>
           <!-- «Docker» --> <a href="https://www.docker.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="100" /></a>
