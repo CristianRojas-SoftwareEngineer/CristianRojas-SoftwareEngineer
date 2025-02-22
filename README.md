@@ -70,9 +70,9 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
           <!-- «MySQL» -->
           <a href="https://www.mysql.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740245504/2-_MySQL_-_Tagged_hkpmid.png" alt="MySQL" height="133"/></a>
           <!-- «PostgreSQL» -->
-          <a href="https://www.postgresql.org/"><img style="margin: 50px" src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740246047/3-_PostgreSQL_-_Tagged_ccawcn.png" alt="PostgreSQL" height="133"/></a>
+          <a href="https://www.postgresql.org/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740246047/3-_PostgreSQL_-_Tagged_ccawcn.png" alt="PostgreSQL" height="133"/></a>
           <!-- «Azure Cosmos DB» -->
-          <a href="https://learn.microsoft.com/es-es/azure/cosmos-db/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740095864/Azure_Cosmos_DB_ygbtcy.png" alt="Azure Cosmos DB" height="133"/></a>
+          <a href="https://learn.microsoft.com/es-es/azure/cosmos-db/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740247362/4-_Azure_Cosmos_DB_-_Tagged_luotsb.png" alt="Azure Cosmos DB" height="133"/></a>
           <!-- «Azure Cache for Redis» -->
           <a href="https://redis.io/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740097402/Azure_Redis_Cache_yhvorc.png" alt="Redis" height="133"/></a>
           <!-- «Azure Search» -->
@@ -105,7 +105,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
   <table>
     <tr>
       <td>
-        <h2 style="margin-top: 0px;">Frontend</h2>
+        <h2>Frontend</h2>
         <div>
           <!-- «HTML5» -->
           <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="133"/></a>
