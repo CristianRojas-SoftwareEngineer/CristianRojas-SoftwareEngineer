@@ -74,9 +74,9 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
           <!-- «Azure Cosmos DB» -->
           <a href="https://learn.microsoft.com/es-es/azure/cosmos-db/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740247362/4-_Azure_Cosmos_DB_-_Tagged_luotsb.png" alt="Azure Cosmos DB" height="133"/></a>
           <!-- «Azure Cache for Redis» -->
-          <a href="https://redis.io/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740097402/Azure_Redis_Cache_yhvorc.png" alt="Redis" height="133"/></a>
+          <a href="https://redis.io/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740249966/5-_Azure_Redis_Cache_-_Tagged_fghmgz.png" alt="Redis" height="133"/></a>
           <!-- «Azure Search» -->
-          <a href="https://learn.microsoft.com/es-es/azure/search/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740095865/Azure_Search_haqmwg.png" alt="Azure Search" height="133"/></a>
+          <a href="https://learn.microsoft.com/es-es/azure/search/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740249966/6-_Azure_Search_-_Tagged_wksu1d.png" alt="Azure Search" height="133"/></a>
         </div>
       </td>
     </tr>
