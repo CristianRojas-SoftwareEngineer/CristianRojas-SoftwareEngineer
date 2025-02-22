@@ -111,14 +111,14 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
           <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="133"/></a>
           <!-- «CSS3» -->
           <a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="133"/></a>
-          <!-- «Tailwind CSS» -->
-          <a href="https://www.tailwindcss.com/"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="133"/></a>
           <!-- «JavaScript» -->
           <a href="https://www.javascript.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098798/JavaScript_h918th.png" alt="JavaScript" height="133"/></a>
           <!-- «TypeScript» -->
-          <a href="https://www.typescriptlang.org/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098799/TypeScript_amnuil.png" alt="TypeScript" height="133"/></a>
+          <a href="https://www.typescriptlang.org/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/3-_TypeScript_-_Tagged_te2g5p.png" alt="TypeScript" height="133"/></a>
           <!-- «Angular» -->
           <a href="https://angular.io/"><img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="133"/></a>
+          <!-- «Flutter» -->
+          <a href="https://flutter.dev/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740250670/6-_Flutter_-_Tagged_d6fhbl.png" alt="Tailwind CSS" height="133"/></a>
         </div>
       </td>
     </tr>
