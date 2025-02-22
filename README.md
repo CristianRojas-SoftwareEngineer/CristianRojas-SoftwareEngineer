@@ -68,7 +68,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
           <!-- «MongoDB» -->
           <a href="https://www.mongodb.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740173173/1-_MongoDB_-_Tagged_e3qn8i.png" alt="MongoDB" height="133"/></a>
           <!-- «MySQL» -->
-          <a href="https://www.mysql.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740245504/2-_MySQL_-_Tagged_hkpmid.png" alt="MySQL" height="133"/></a>
+          <a href="https://www.mysql.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740251849/2-_MySQL_-_Tagged_oxdpl1.png" alt="MySQL" height="133"/></a>
           <!-- «PostgreSQL» -->
           <a href="https://www.postgresql.org/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740246047/3-_PostgreSQL_-_Tagged_ccawcn.png" alt="PostgreSQL" height="133"/></a>
           <!-- «Azure Cosmos DB» -->
