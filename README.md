@@ -97,7 +97,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
           <!-- «Python» -->
           <a href="https://www.python.org/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162861/5-_Python_-_Tagged_yjj25g.png" alt="Python" height="133"/></a>
           <!-- «Flask» -->
-          <a href="https://flask.palletsprojects.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/6-_Flask_-_Tagged_r5a94m.png" alt="Flask" height="133"/></a>
+          <a href="https://flask.palletsprojects.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740252739/6-_Flask_-_Tagged_fslsnr.png" alt="Flask" height="133"/></a>
         </div>
       </td>
     </tr>
