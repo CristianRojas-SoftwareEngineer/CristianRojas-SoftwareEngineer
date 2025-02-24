@@ -49,7 +49,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
           <!-- «Docker» -->
           <a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="133"/></a>
           <!-- «Nginx» -->
-          <a href="https://www.nginx.com/"><img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="133"/></a>
+          <a href="https://www.nginx.com/"><img src="https://github.com/user-attachments/assets/2251e388-c9fc-4187-bde7-7b18f578d022" alt="Nginx" height="133"/></a>
           <!-- «Bash» -->
           <a href="https://www.gnu.org/software/bash/"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="133"/></a>
           <!-- «PowerShell» -->
