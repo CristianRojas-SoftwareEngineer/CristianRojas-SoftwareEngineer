@@ -52,8 +52,8 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
           <a href="https://www.nginx.com/"><img src="https://github.com/user-attachments/assets/2251e388-c9fc-4187-bde7-7b18f578d022" alt="Nginx" height="133"/></a>
           <!-- «Bash» -->
           <a href="https://www.gnu.org/software/bash/"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="133"/></a>
-          <!-- «Azure» -->
-          <a href="https://azure.microsoft.com/en-in/"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="133"/></a>
+          <!-- «Azure Functions» -->
+          <a href="https://learn.microsoft.com/es-es/azure/azure-functions/functions-overview?pivots=programming-language-csharp"><img src="https://github.com/user-attachments/assets/8ba71d71-8e00-45dc-a3e6-ef7c4f559aa5" alt="Azure" height="133"/></a>
           <!-- «Azure Service Bus» -->
           <a href="https://learn.microsoft.com/es/azure/service-bus-messaging/"><img src="https://github.com/user-attachments/assets/89bf9817-037f-46a5-8f77-8eb4fbb2054e" alt="Azure Service Bus" height="133"/></a>
         </div>
