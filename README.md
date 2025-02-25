@@ -45,17 +45,17 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
         <h2>Infraestructura</h2>
         <div>
           <!-- «Git» -->
-          <a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="133"/></a>
-          <!-- «Docker» -->
-          <a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="133"/></a>
+          <a href="https://git-scm.com/doc"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740445783/Git_-_Photoshop_Project_jok9ia.png" alt="Git" height="133"/></a>
           <!-- «Nginx» -->
-          <a href="https://www.nginx.com/"><img src="https://github.com/user-attachments/assets/2251e388-c9fc-4187-bde7-7b18f578d022" alt="Nginx" height="133"/></a>
+          <a href="https://www.nginx.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740445821/Nginx_-_Photoshop_Project_rndtjj.png" alt="Nginx" height="133"/></a>
+          <!-- «Docker» -->
+          <a href="https://www.docker.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740445833/Docker_-_Photoshop_Project_cjm83i.png" alt="Docker" height="133"/></a>
           <!-- «Bash» -->
-          <a href="https://www.gnu.org/software/bash/"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="133"/></a>
+          <a href="https://www.gnu.org/software/bash/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740445839/Shell_Scripting_-_Photoshop_Project_lfgeoe.png" alt="Shell Scripting" height="133"/></a>
           <!-- «Azure Functions» -->
-          <a href="https://learn.microsoft.com/es-es/azure/azure-functions/functions-overview?pivots=programming-language-csharp"><img src="https://github.com/user-attachments/assets/8ba71d71-8e00-45dc-a3e6-ef7c4f559aa5" alt="Azure" height="133"/></a>
+          <a href="https://learn.microsoft.com/es-es/azure/azure-functions/functions-overview?pivots=programming-language-csharp"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740445850/Azure_Functions_-_Photoshop_Project_n91ltp.png" alt="Azure" height="133"/></a>
           <!-- «Azure Service Bus» -->
-          <a href="https://learn.microsoft.com/es/azure/service-bus-messaging/"><img src="https://github.com/user-attachments/assets/89bf9817-037f-46a5-8f77-8eb4fbb2054e" alt="Azure Service Bus" height="133"/></a>
+          <a href="https://learn.microsoft.com/es/azure/service-bus-messaging/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740445860/Azure_Service_Bus_-_Photoshop_Project_quqp4n.png" alt="Azure Service Bus" height="133"/></a>
         </div>
       </td>
     </tr>
