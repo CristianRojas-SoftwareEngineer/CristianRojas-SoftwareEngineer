@@ -37,7 +37,7 @@ Consciente de la importancia del aprendizaje continuo, me he propuesto ampliar y
 
 Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de un libro sobre patrones de diseño de software. Mi intención es recopilar y analizar los patrones más significativos propuestos durante las últimas décadas, contribuyendo a la evolución y consolidación de buenas prácticas en la ingeniería de software.
 
-<h1>Mi stack tecnológico</h1>
+<h1>Mi stack de tecnologías</h1>
 <div align="center">
   <table>
     <tr>
