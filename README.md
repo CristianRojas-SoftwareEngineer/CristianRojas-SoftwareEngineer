@@ -50,7 +50,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
           <a href="https://www.nginx.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740445821/Nginx_-_Photoshop_Project_rndtjj.png" alt="Nginx" height="133"/></a>
           <!-- «Docker» -->
           <a href="https://www.docker.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740445833/Docker_-_Photoshop_Project_cjm83i.png" alt="Docker" height="133"/></a>
-          <!-- «Bash» -->
+          <!-- «Shell Scripting» -->
           <a href="https://www.gnu.org/software/bash/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740445839/Shell_Scripting_-_Photoshop_Project_lfgeoe.png" alt="Shell Scripting" height="133"/></a>
           <!-- «Azure Functions» -->
           <a href="https://learn.microsoft.com/es-es/azure/azure-functions/functions-overview?pivots=programming-language-csharp"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740445850/Azure_Functions_-_Photoshop_Project_n91ltp.png" alt="Azure" height="133"/></a>
@@ -66,17 +66,17 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
         <h2>Bases de datos</h2>
         <div>
           <!-- «MongoDB» -->
-          <a href="https://www.mongodb.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740173173/1-_MongoDB_-_Tagged_e3qn8i.png" alt="MongoDB" height="133"/></a>
+          <a href="https://www.mongodb.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599524/MongoDB_-_Photoshop_Project_tw9it7.png" alt="MongoDB" height="133"/></a>
           <!-- «MySQL» -->
-          <a href="https://www.mysql.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740251849/2-_MySQL_-_Tagged_oxdpl1.png" alt="MySQL" height="133"/></a>
+          <a href="https://www.mysql.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599565/MySQL_-_Photoshop_Project_ppsy7a.png" alt="MySQL" height="133"/></a>
           <!-- «PostgreSQL» -->
-          <a href="https://www.postgresql.org/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740246047/3-_PostgreSQL_-_Tagged_ccawcn.png" alt="PostgreSQL" height="133"/></a>
+          <a href="https://www.postgresql.org/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599579/PostgreSQL_-_Photoshop_Project_xa3xqk.png" alt="PostgreSQL" height="133"/></a>
           <!-- «Azure Cosmos DB» -->
-          <a href="https://learn.microsoft.com/es-es/azure/cosmos-db/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740247362/4-_Azure_Cosmos_DB_-_Tagged_luotsb.png" alt="Azure Cosmos DB" height="133"/></a>
-          <!-- «Azure Cache for Redis» -->
-          <a href="https://redis.io/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740249966/5-_Azure_Redis_Cache_-_Tagged_fghmgz.png" alt="Redis" height="133"/></a>
+          <a href="https://learn.microsoft.com/es-es/azure/cosmos-db/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599590/Azure_Cosmos_DB_-_Photoshop_Project_anwwdq.png" alt="Azure Cosmos DB" height="133"/></a>
+          <!-- «Azure Redis Cache» -->
+          <a href="https://redis.io/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599603/Azure_Redis_Cache_-_Photoshop_Project_fmblkk.png" alt="Azure Redis Cache" height="133"/></a>
           <!-- «Azure Search» -->
-          <a href="https://learn.microsoft.com/es-es/azure/search/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740249966/6-_Azure_Search_-_Tagged_wksu1d.png" alt="Azure Search" height="133"/></a>
+          <a href="https://learn.microsoft.com/es-es/azure/search/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599616/Azure_Search_-_Photoshop_Project_cqjgq2.png" alt="Azure Search" height="133"/></a>
         </div>
       </td>
     </tr>
@@ -87,17 +87,17 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
         <h2>Backend</h2>
         <div>
           <!-- «C#» -->
-          <a href="https://docs.microsoft.com/es/dotnet/csharp/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/1-_C_-_Tagged_q8vek6.png" alt="C#" height="133"/></a>
-          <!-- «.NET» -->
-          <a href="https://dotnet.microsoft.com/download/dotnet-framework"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/2-_.NET_Platform_-_Tagged_schvq7.png" alt=".NET" height="133"/></a>
+          <a href="https://docs.microsoft.com/es/dotnet/csharp/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599645/C_-_Photoshop_Project_yibi2o.png" alt="C#" height="133"/></a>
+          <!-- «.NET Platform» -->
+          <a href="https://dotnet.microsoft.com/download/dotnet-framework"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599656/.NET_Platform_-_Photoshop_Project_uxajbz.png" alt=".NET Platform" height="133"/></a>
           <!-- «TypeScript» -->
-          <a href="https://www.typescriptlang.org/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/3-_TypeScript_-_Tagged_te2g5p.png" alt="TypeScript" height="133"/></a>
+          <a href="https://www.typescriptlang.org/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599666/TypeScript_-_Photoshop_Project_ae00wn.png" alt="TypeScript" height="133"/></a>
           <!-- «NestJS» -->
-          <a href="https://nestjs.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/4-_NestJS_-_Tagged_aezbf9.png" alt="NestJS" height="133"/></a>
+          <a href="https://nestjs.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599682/NestJS_-_Photoshop_Project_vhmjym.png" alt="NestJS" height="133"/></a>
           <!-- «Python» -->
-          <a href="https://www.python.org/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162861/5-_Python_-_Tagged_yjj25g.png" alt="Python" height="133"/></a>
+          <a href="https://www.python.org/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599698/Python_-_Photoshop_Project_ar2ok2.png" alt="Python" height="133"/></a>
           <!-- «Flask» -->
-          <a href="https://flask.palletsprojects.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740252739/6-_Flask_-_Tagged_fslsnr.png" alt="Flask" height="133"/></a>
+          <a href="https://flask.palletsprojects.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599713/Flask_-_Photoshop_Project_h9jidq.png" alt="Flask" height="133"/></a>
         </div>
       </td>
     </tr>
@@ -108,17 +108,17 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
         <h2>Frontend</h2>
         <div>
           <!-- «HTML5» -->
-          <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="133"/></a>
+          <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599742/HTML_5_-_Photoshop_Project_gpi3x1.png" alt="HTML5" height="133"/></a>
           <!-- «CSS3» -->
-          <a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="133"/></a>
+          <a href="https://www.w3schools.com/css/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599753/CSS_3_-_Photoshop_Project_ewpovq.png" alt="CSS3" height="133"/></a>
           <!-- «JavaScript» -->
-          <a href="https://www.javascript.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740098798/JavaScript_h918th.png" alt="JavaScript" height="133"/></a>
+          <a href="https://www.javascript.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599764/JavaScript_-_Photoshop_Project_yqrogr.png" alt="JavaScript" height="133"/></a>
           <!-- «TypeScript» -->
-          <a href="https://www.typescriptlang.org/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740162860/3-_TypeScript_-_Tagged_te2g5p.png" alt="TypeScript" height="133"/></a>
+          <a href="https://www.typescriptlang.org/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599666/TypeScript_-_Photoshop_Project_ae00wn.png" alt="TypeScript" height="133"/></a>
           <!-- «Angular» -->
-          <a href="https://angular.io/"><img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="133"/></a>
+          <a href="https://angular.io/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599778/Angular_-_Photoshop_Project_zjsnwm.png" alt="Angular" height="133"/></a>
           <!-- «Flutter» -->
-          <a href="https://flutter.dev/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740251107/6-_Flutter_-_Tagged_ybaftg.png" alt="Flutter" height="133"/></a>
+          <a href="https://flutter.dev/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599790/Flutter_-_Photoshop_Project_ewkbg1.png" alt="Flutter" height="133"/></a>
         </div>
       </td>
     </tr>
