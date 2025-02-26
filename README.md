@@ -53,7 +53,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
           <!-- «Shell Scripting» -->
           <a href="https://www.gnu.org/software/bash/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740445839/Shell_Scripting_-_Photoshop_Project_lfgeoe.png" alt="Shell Scripting" height="133"/></a>
           <!-- «Azure Functions» -->
-          <a href="https://learn.microsoft.com/es-es/azure/azure-functions/functions-overview?pivots=programming-language-csharp"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740445850/Azure_Functions_-_Photoshop_Project_n91ltp.png" alt="Azure" height="133"/></a>
+          <a href="https://learn.microsoft.com/es/azure/azure-functions/functions-overview?pivots=programming-language-csharp"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740445850/Azure_Functions_-_Photoshop_Project_n91ltp.png" alt="Azure" height="133"/></a>
           <!-- «Azure Service Bus» -->
           <a href="https://learn.microsoft.com/es/azure/service-bus-messaging/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740445860/Azure_Service_Bus_-_Photoshop_Project_quqp4n.png" alt="Azure Service Bus" height="133"/></a>
         </div>
@@ -72,11 +72,11 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
           <!-- «PostgreSQL» -->
           <a href="https://www.postgresql.org/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599579/PostgreSQL_-_Photoshop_Project_xa3xqk.png" alt="PostgreSQL" height="133"/></a>
           <!-- «Azure Cosmos DB» -->
-          <a href="https://learn.microsoft.com/es-es/azure/cosmos-db/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599590/Azure_Cosmos_DB_-_Photoshop_Project_anwwdq.png" alt="Azure Cosmos DB" height="133"/></a>
+          <a href="https://learn.microsoft.com/es/azure/cosmos-db/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599590/Azure_Cosmos_DB_-_Photoshop_Project_anwwdq.png" alt="Azure Cosmos DB" height="133"/></a>
           <!-- «Azure Redis Cache» -->
           <a href="https://redis.io/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599603/Azure_Redis_Cache_-_Photoshop_Project_fmblkk.png" alt="Azure Redis Cache" height="133"/></a>
           <!-- «Azure Search» -->
-          <a href="https://learn.microsoft.com/es-es/azure/search/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599616/Azure_Search_-_Photoshop_Project_cqjgq2.png" alt="Azure Search" height="133"/></a>
+          <a href="https://learn.microsoft.com/es/azure/search/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599616/Azure_Search_-_Photoshop_Project_cqjgq2.png" alt="Azure Search" height="133"/></a>
         </div>
       </td>
     </tr>
