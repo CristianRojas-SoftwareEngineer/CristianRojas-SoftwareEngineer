@@ -42,7 +42,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
   <table>
     <tr>
       <td>
-        <h2>Infraestructura</h2>
+        <h2>» Infraestructura</h2>
         <div>
           <!-- «Git» -->
           <a href="https://git-scm.com/doc"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740445783/Git_-_Photoshop_Project_jok9ia.png" alt="Git" height="133"/></a>
@@ -63,7 +63,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
   <table>
     <tr>
       <td>
-        <h2>Bases de datos</h2>
+        <h2>» Bases de datos</h2>
         <div>
           <!-- «MongoDB» -->
           <a href="https://www.mongodb.com/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599524/MongoDB_-_Photoshop_Project_tw9it7.png" alt="MongoDB" height="133"/></a>
@@ -84,7 +84,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
   <table>
     <tr>
       <td>
-        <h2>Backend</h2>
+        <h2>» Backend</h2>
         <div>
           <!-- «C#» -->
           <a href="https://docs.microsoft.com/es/dotnet/csharp/"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599645/C_-_Photoshop_Project_yibi2o.png" alt="C#" height="133"/></a>
@@ -105,7 +105,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
   <table>
     <tr>
       <td>
-        <h2>Frontend</h2>
+        <h2>» Frontend</h2>
         <div>
           <!-- «HTML5» -->
           <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://res.cloudinary.com/dqdvzzemd/image/upload/v1740599742/HTML_5_-_Photoshop_Project_gpi3x1.png" alt="HTML5" height="133"/></a>
