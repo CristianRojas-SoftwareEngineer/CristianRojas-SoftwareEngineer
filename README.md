@@ -4,25 +4,29 @@
 
 ### Acerca de mí
 
-Soy un Ingeniero Informático especializado en la ingeniería, arquitectura y el desarrollo de software. En mis proyectos combino creatividad con metodologías modernas, buscando siempre soluciones escalables y eficientes. Mi enfoque se centra en la integración de tecnologías como «C#», «Python» y «.NET», además de mantenerme actualizado en áreas emergentes como la computación en la nube y la inteligencia artificial. Mi objetivo es aportar valor tanto en proyectos individuales como en equipos multidisciplinarios, impulsando la innovación y la eficiencia en cada solución.
+Mi nombre es Cristián Rojas Arredondo, soy **"Licenciado en Ingeniería Informática"**, egresado de la **Universidad de Valparaíso** (Chile). Durante mi carrera académica (2014–2020) y, posteriormente, durante mi trayectoria profesional (2020–2025), me he dedicado al aprendizaje continuo en los campos de ***ingeniería, arquitectura y desarrollo de software***. Además, he estado siguiendo de cerca los avances en áreas emergentes como la ***computación en la nube*** y la ***inteligencia artificial***. Esta formación integral me ha permitido desarrollar una visión amplia sobre el diseño de software eficiente mediante el estudio y la aplicación de buenas prácticas de programación, en combinación con patrones de diseño y modelos de arquitectura escalables y mantenibles en el tiempo.
 
-### 1. Integración en equipos de alto desempeño
+A lo largo de mi carrera, he desarrollado diversos proyectos de software, tanto en el ámbito laboral como en el personal, lo que me ha permitido adquirir experiencia en el desarrollo integral de sistemas como desarrollador **«*Full Stack*»**. Sin embargo, hoy en día estoy enfocado en profundizar mi especialización en el diseño, desarrollo y optimización de sistemas como desarrollador **«*Backend*»**, analizándolos no sólo desde el punto de vista comercial, sino también desde una perspectiva algorítmica, con énfasis en la optimización de los recursos disponibles.
 
-Desde el inicio de mi carrera, he valorado la importancia de formar parte de equipos experimentados y colaborativos. Busco integrarme en entornos donde la excelencia técnica y la sinergia entre profesionales sean la base del éxito. Disfruto tanto enseñando como aprendiendo de mis colegas, lo que me permite enriquecer mi experiencia y contribuir activamente al crecimiento colectivo. Estoy convencido de que el trabajo en equipo es esencial para desarrollar soluciones de software robustas y adaptables.
+Tengo experiencia en diseño, desarrollo, optimización, integración y migración de sistemas; además, tengo un fuerte interés en la automatización de procesos. Actualmente, **me encuentro trabajando en el desarrollo de un framework de código abierto**, el cual está enfocado en el desarrollo de sistemas backend integrados con sus respectivos sistemas de base de datos. Este framework combina eficazmente las fortalezas de dos lenguajes de programación líderes en la industria tales como **«*C#*»** y **«*Python*»**, junto con un modelo de arquitectura limpia y múltiples patrones de diseño especializados en resolver distintas necesidades propias del desarrollo de software. Su propósito es agilizar el proceso de desarrollo de sistemas backend eficientes, extensibles y mantenibles, lo que reduce significativamente el tiempo y costo invertidos tanto en el desarrollo inicial como en el mantenimiento continuo de cada sistema construido.
 
-### 2. Metodología creativa durante las fases de diseño
+Mi objetivo profesional es continuar potenciando mis **habilidades técnicas, sociales y estratégicas** para consolidarme como un **profesional integral**, capaz de generar un impacto positivo en la eficiencia y productividad de los proyectos en los que participo, ya sea de manera individual o en colaboración con equipos interdisciplinarios, aplicando mis conocimientos para crear **soluciones innovadoras** en cada nuevo desafío.
+
+### 1. Metodología creativa durante las fases de diseño
 
 Mi proceso creativo se caracteriza por un enfoque innovador y flexible. Cuando enfrento el diseño de sistemas o procesos complejos, comienzo con lápiz y papel, lo que me permite liberar mi imaginación sin las restricciones de una estructura predefinida. Esta metodología me ayuda a visualizar ideas de manera espontánea y a desarrollar soluciones que combinan creatividad y rigor técnico. Considero que esta etapa es fundamental para sentar las bases de proyectos sólidos y adaptables a futuros desafíos.
 
-### 3. Desarrollo un «Framework de código abierto»
+### 2. Desarrollo un «Framework de código abierto»
 
 Actualmente, estoy desarrollando un framework que integra las fortalezas de «C#» y «Python» para agilizar el proceso de desarrollo de sistemas backend eficientes, escalables y mantenibles. La metodología que empleo se basa en el diseño e implementación de reglas de negocio mediante componentes modulares, materializados en una colección de librerías en «.NET». Adicionalmente, utilizo «Python» para automatizar la generación y mantención del código fuente, optimizando el proceso de desarrollo y asegurando la calidad en cada iteración.
 
-### 4. Colaboración y asesoría
+Con «C#» se modela e implementa la lógica de negocio aprovechando el tipado estricto, la reflexión y las herramientas de «.NET», lo que posibilita una arquitectura orientada a objetos robusta y clara, con clases que representan cada caso de uso. Por otro lado, «Python» se utiliza para automatizar la generación del código repetitivo—como las etiquetas de clase, constructores, declaraciones de namespace, llaves de apertura y cierre, y la implementación de métodos predefinidos en interfaces—reduciendo así el código Boilerplate y acelerando el desarrollo.
 
-Estoy siempre dispuesto a compartir mi experiencia en arquitectura y desarrollo de software. Si tienes preguntas, necesitas asesoría o deseas debatir sobre algún tema en el que tenga experiencia, no dudes en contactarme. Creo firmemente en el valor del intercambio de ideas y en la mentoría como herramientas para el crecimiento profesional. Me comprometo a responder y colaborar siempre que disponga de tiempo, impulsando un ambiente de aprendizaje y mejora continua.
+En este proyecto, «C#» se utiliza para estructurar la lógica de la aplicación mediante clases e interfaces fuertemente tipadas, lo que permite construir una arquitectura robusta y clara que facilita la evolución del software. Simultáneamente, se aprovecha la flexibilidad y eficiencia de «Python» para automatizar tareas repetitivas en el desarrollo y mantenimiento del código, reduciendo la necesidad de escribir código redundante y acelerando la implementación de nuevas funcionalidades.
 
-### 5. Capacitación y certificaciones para el 2025
+### 3. Objetivos a mediano y largo plazo
+
+Mediano plazo: Capacitación y certificaciones para el 2025
 
 Consciente de la importancia del aprendizaje continuo, me he propuesto ampliar y certificar mis conocimientos en áreas clave que potencien mi crecimiento profesional. Durante el año 2025, trabajaré en:
 
@@ -33,11 +37,11 @@ Consciente de la importancia del aprendizaje continuo, me he propuesto ampliar y
 - **AWS**: Profundizar en servicios y arquitectura on cloud para diseñar soluciones escalables y resilientes.
 - **Inglés**: Alcanzar y certificar niveles avanzados (B2 y C1) que faciliten la comunicación en entornos internacionales y el acceso a fuentes globales de conocimiento.
 
-### 6. Objetivos a mediano y largo plazo
+Largo plazo:
 
 Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de un libro sobre patrones de diseño de software. Mi intención es recopilar y analizar los patrones más significativos propuestos durante las últimas décadas, contribuyendo a la evolución y consolidación de buenas prácticas en la ingeniería de software.
 
-<h1>Mi stack de tecnologías</h1>
+### Mi stack de tecnologías
 <div align="center">
   <table>
     <tr>
@@ -125,15 +129,10 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
   </table>
 </div>
 
-# 📊 Mis estadísticas en GitHub:
-<div style="width: 100%;">
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianRojasSoftwareDeveloper&theme=swift&hide_border=false&include_all_commits=false&count_private=false&card_width=850" 
-        alt="GitHub Stats" 
-        style="display: block;"
-    >
-</div>
+### Colaboración y asesoría
 
-## 🌐 Contáctame en:
+Estoy siempre dispuesto a compartir mi experiencia en arquitectura y desarrollo de software. Si tienes preguntas, necesitas asesoría o deseas debatir sobre algún tema en el que tenga experiencia, no dudes en contactarme. Creo firmemente en el valor del intercambio de ideas y en la mentoría como herramientas para el crecimiento profesional. Me comprometo a responder y colaborar siempre que disponga de tiempo, impulsando un ambiente de aprendizaje y mejora continua.
+
+### 🌐 Contáctame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-rojas-software-engineer)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cristian.rojas.software.engineer@gmail.com)
