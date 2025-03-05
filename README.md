@@ -2,7 +2,7 @@
 
 ![Banner Profesional - Diseño Claro - Alta Definición](https://res.cloudinary.com/dqdvzzemd/image/upload/v1740083888/Banner_Profesional_-_Dise%C3%B1o_Claro_-_Alta_Definici%C3%B3n_mcgoiv.png)
 
-### Acerca de mí
+## Acerca de mí
 
 Mi nombre es Cristián Rojas Arredondo, soy **"Licenciado en Ingeniería Informática"**, egresado de la **Universidad de Valparaíso** (Chile). Durante mi carrera académica (2014–2020) y, posteriormente, durante mi trayectoria profesional (2020–2025), me he dedicado al aprendizaje continuo en los campos de ***ingeniería, arquitectura y desarrollo de software***. Además, he estado siguiendo de cerca los avances en áreas emergentes como la ***computación en la nube*** y la ***inteligencia artificial***. Esta formación integral me ha permitido desarrollar una visión amplia sobre el diseño de software eficiente mediante el estudio y la aplicación de buenas prácticas de programación, en combinación con patrones de diseño y modelos de arquitectura escalables y mantenibles en el tiempo.
 
@@ -41,7 +41,7 @@ Largo plazo:
 
 Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de un libro sobre patrones de diseño de software. Mi intención es recopilar y analizar los patrones más significativos propuestos durante las últimas décadas, contribuyendo a la evolución y consolidación de buenas prácticas en la ingeniería de software.
 
-### Mi stack de tecnologías
+## Mi stack de tecnologías
 <div align="center">
   <table>
     <tr>
@@ -129,10 +129,10 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
   </table>
 </div>
 
-### Colaboración y asesoría
+## Colaboración y asesoría
 
 Estoy siempre dispuesto a compartir mi experiencia en arquitectura y desarrollo de software. Si tienes preguntas, necesitas asesoría o deseas debatir sobre algún tema en el que tenga experiencia, no dudes en contactarme. Creo firmemente en el valor del intercambio de ideas y en la mentoría como herramientas para el crecimiento profesional. Me comprometo a responder y colaborar siempre que disponga de tiempo, impulsando un ambiente de aprendizaje y mejora continua.
 
-### 🌐 Contáctame en:
+## 🌐 Contáctame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-rojas-software-engineer)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cristian.rojas.software.engineer@gmail.com)
