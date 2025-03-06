@@ -10,13 +10,11 @@ A lo largo de mi carrera, he desarrollado diversos proyectos de software, tanto 
 
 Tengo experiencia en diseño, desarrollo, optimización, integración y migración de sistemas. Además, **me interesa especialmente la automatización de los procesos inherentes al desarrollo de software**, lo que reduce el tiempo necesario para ejecutar tareas repetitivas y minimiza la probabilidad de introducir errores debido a la intervención humana. Actualmente, **me encuentro trabajando en el desarrollo de un framework de código abierto**, el cual está enfocado en el desarrollo de sistemas backend integrados con sus respectivos sistemas de base de datos. El propósito de este framework es agilizar el proceso de desarrollo de sistemas backend eficientes, extensibles y mantenibles, lo que reduce significativamente el tiempo y costo invertido tanto en el desarrollo de sistemas como en su mantenimiento posterior.
 
+Un dato curioso sobre mí es que, al diseñar sistemas o procesos complejos, compuestos por múltiples partes interconectadas, prefiero comenzar esbozando el diseño con lápiz y papel. Este método me permite visualizar y plasmar ideas de forma espontánea y semi-estructurada, evitando así limitar el proceso creativo con restricciones técnicas prematuras. Considero fundamental que, durante las etapas de diseño iniciales, el trabajo se centre en definir el "qué" antes que el "cómo". Una vez definido el propósito y los componentes del sistema, analizo las tecnologías necesarias y sus restricciones, asegurándome de que la solución se base en requerimientos comerciales y no en limitaciones técnicas.
+
 Mi objetivo profesional es perfeccionar mis **habilidades técnicas, sociales y estratégicas** de manera continua, con el propósito de destacar como un **profesional integral** en todos los proyectos en los que participe. Mi intención es generar un impacto positivo en la **eficiencia y productividad** de dichos proyectos, tanto de manera individual como en colaboración con equipos interdisciplinarios, aplicando mis conocimientos para proponer y desarrollar **soluciones innovadoras** ante cada nuevo desafío que se me presente.
 
-### 1. Metodología creativa durante las fases de diseño
-
-Mi proceso creativo se caracteriza por un enfoque innovador y flexible. Cuando enfrento el diseño de sistemas o procesos complejos, comienzo con lápiz y papel, lo que me permite liberar mi imaginación sin las restricciones de una estructura predefinida. Esta metodología me ayuda a visualizar ideas de manera espontánea y a desarrollar soluciones que combinan creatividad y rigor técnico. Considero que esta etapa es fundamental para sentar las bases de proyectos sólidos y adaptables a futuros desafíos.
-
-### 2. Desarrollo un «Framework de código abierto»
+### 1. Desarrollo un «Framework de código abierto»
 
 Actualmente, estoy desarrollando un framework que integra las fortalezas de «C#» y «Python» para agilizar el proceso de desarrollo de sistemas backend eficientes, escalables y mantenibles. La metodología que empleo se basa en el diseño e implementación de reglas de negocio mediante componentes modulares, materializados en una colección de librerías en «.NET». Adicionalmente, utilizo «Python» para automatizar la generación y mantención del código fuente, optimizando el proceso de desarrollo y asegurando la calidad en cada iteración.
 
@@ -26,7 +24,7 @@ En este proyecto, «C#» se utiliza para estructurar la lógica de la aplicació
 
 Este framework combina eficazmente las fortalezas de dos lenguajes de programación líderes en la industria tales como **«*C#*»** y **«*Python*»**, junto con un modelo de arquitectura limpia y múltiples patrones de diseño especializados en resolver distintas necesidades propias del desarrollo de software. 
 
-### 3. Objetivos a mediano y largo plazo
+### 2. Objetivos a mediano y largo plazo
 
 Mediano plazo: Capacitación y certificaciones para el 2025
 
@@ -131,9 +129,11 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
   </table>
 </div>
 
-## Colaboración y asesoría
+## Asesoramiento y colaboración
 
-Estoy siempre dispuesto a compartir mi experiencia en arquitectura y desarrollo de software. Si tienes preguntas, necesitas asesoría o deseas debatir sobre algún tema en el que tenga experiencia, no dudes en contactarme. Creo firmemente en el valor del intercambio de ideas y en la mentoría como herramientas para el crecimiento profesional. Me comprometo a responder y colaborar siempre que disponga de tiempo, impulsando un ambiente de aprendizaje y mejora continua.
+Considero que el intercambio de ideas y el asesoramiento colaborativo son fundamentales para el crecimiento profesional e interpersonal, es por esto que siempre estoy dispuesto a compartir mi experiencia y conocimientos en ingeniería, arquitectura y desarrollo de software.
+
+Si tienes preguntas, necesitas asesoría o simplemente deseas intercambiar ideas sobre algún tema que conozca, no dudes en contactarme. Haré todo lo posible por responder y colaborar en cuanto disponga de tiempo, impulsando así un ambiente de aprendizaje colaborativo y mejora continua.
 
 ## 🌐 Contáctame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-rojas-software-engineer)
