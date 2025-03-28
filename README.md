@@ -18,7 +18,7 @@ En el siguiente documento presentaré mi **perfil profesional**, abarcando mi fo
 
 A continuación se presenta el índice del documento para facilitar la navegación por el mismo. El documento se encuentra estructurado de la siguiente manera:
 
-[» Acerca de mí](#-acerca-de-mí)</br>
+[**» Acerca de mí**](#-acerca-de-mí)</br>
 [**» Proyectos personales sobre ingeniería de software**](#-proyectos-personales-sobre-ingeniería-de-software)</br>
 &emsp;[**» Análisis sobre las fases del ciclo de vida del desarrollo de software**](#-análisis-sobre-las-fases-del-ciclo-de-vida-del-desarrollo-de-software)</br>
 &emsp;[**» Sistema de desarrollo de software autónomo basado en agentes inteligentes**](#-sistema-de-desarrollo-de-software-autónomo-basado-en-agentes-inteligentes)</br>
