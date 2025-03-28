@@ -18,15 +18,15 @@ En el siguiente documento presentaré mi **perfil profesional**, abarcando mi fo
 
 A continuación se presenta el índice del documento para facilitar la navegación por el mismo. El documento se encuentra estructurado de la siguiente manera:
 
-[**» Acerca de mí**](#-acerca-de-mi)
-[**» Proyectos personales sobre ingeniería de software**](#proyectos-personales)
-&ensp;&ensp;&ensp;&ensp;&ensp;[**» Análisis sobre las fases del ciclo de vida del desarrollo de software**](#análisis-sobre-el-ciclo-de-vida-del-desarrollo-de-software)
-&ensp;&ensp;&ensp;&ensp;&ensp;[**» Sistema de desarrollo de software autónomo basado en agentes inteligentes**](#sistema-de-desarrollo-de-software-autónomo)
-[**» Mi stack de tecnologías**](#stack-de-tecnologías)
-[**» Objetivos a mediano y largo plazo:**](#objetivos)
-[**» Aprendizaje colaborativo y asesoramiento**](#asesoramiento)
-[**» ¡Contáctame!**](#contáctame)
-[**» Palabras finales**](#-palabras-finales)
+[**» Acerca de mí**](#-acerca-de-mí)</br>
+[**» Proyectos personales sobre ingeniería de software**](#-proyectos-personales-sobre-ingeniería-de-software)</br>
+&ensp;&ensp;&ensp;&ensp;&ensp;[**» Análisis sobre las fases del ciclo de vida del desarrollo de software**](#-análisis-sobre-las-fases-del-ciclo-de-vida-del-desarrollo-de-software-análisis-sobre-el-ciclo-de-vida-del-desarrollo-de-software)</br>
+&ensp;&ensp;&ensp;&ensp;&ensp;[**» Sistema de desarrollo de software autónomo basado en agentes inteligentes**](#-sistema-de-desarrollo-de-software-autónomo-basado-en-agentes-inteligentes-sistema-de-desarrollo-de-software-autónomo)</br>
+[**» Mi stack de tecnologías**](#-mi-stack-de-tecnologías)</br>
+[**» Objetivos a mediano y largo plazo:**](#-objetivos-a-mediano-y-largo-plazo)</br>
+[**» Aprendizaje colaborativo y asesoramiento**](#-aprendizaje-colaborativo-y-asesoramiento)</br>
+[**» ¡Contáctame!**](#-contáctame)</br>
+[**» Palabras finales**](#-palabras-finales)</br>
 
 Puedes navegar directamente a cada sección del documento presionando sobre su respectivo título.
 
@@ -59,7 +59,7 @@ A continuación, se presenta una descripción detallada de cada paradigma y la f
 
 <ul>
 
-### ♻ Análisis sobre las fases del ciclo de vida del desarrollo de software {#análisis-sobre-el-ciclo-de-vida-del-desarrollo-de-software}
+### ♻ Análisis sobre las fases del ciclo de vida del desarrollo de software
 
 Este modelo teórico establece fases con objetivos claros que permiten un desarrollo enfocado y orientado a resultados. Cada etapa aporta una función crítica en la creación de sistemas robustos y escalables, inspirado en los modelos tradicionales de desarrollo descritos por Pressman e Ian Sommerville:
 
@@ -89,7 +89,7 @@ Este enfoque integrado refleja mi compromiso con la excelencia técnica y la mej
 
 <ul>
 
-### 👨🏻‍💻 Sistema de desarrollo de software autónomo basado en agentes inteligentes {#sistema-de-desarrollo-de-software-autónomo}
+### 👨🏻‍💻 Sistema de desarrollo de software autónomo basado en agentes inteligentes
 
 Actualmente, estoy desarrollando un framework que integra las fortalezas de «C#» y «Python» para agilizar el proceso de desarrollo de sistemas backend eficientes, escalables y mantenibles. La metodología que empleo se basa en el diseño e implementación de reglas de negocio mediante componentes modulares, materializados en una colección de librerías en «.NET». Adicionalmente, utilizo «Python» para automatizar la generación y mantención del código fuente, optimizando el proceso de desarrollo y asegurando la calidad en cada iteración.
 
@@ -109,7 +109,7 @@ Este framework combina eficazmente las fortalezas de **«*C#*»** y **«*Python*
 
 </ul>
 
-## 💻 Mi stack de tecnologías {#stack-de-tecnologías}
+## 💻 Mi stack de tecnologías
 
 TODO: Debo definir cada una de las 4 categorías conceptual/teóricamente,
 TODO: Debo agregar subsección "Sobre la construcción de este documento", en dónde comente que:
@@ -198,7 +198,7 @@ TODO: Debo agregar subsección "Sobre la construcción de este documento", en d�
 
 ---
 
-## 🎯 Objetivos a mediano y largo plazo {#objetivos}
+## 🎯 Objetivos a mediano y largo plazo
 
 Mediano plazo: Capacitación y certificaciones para el 2025
 
@@ -216,7 +216,7 @@ Entre mis metas futuras se encuentran el desarrollo de cursos y la escritura de 
 
 ---
 
-## 🤝🏻 Aprendizaje colaborativo y asesoramiento {#asesoramiento}
+## 🤝🏻 Aprendizaje colaborativo y asesoramiento
 
 Considero que el intercambio de ideas y el **aprendizaje colaborativo**, son fundamentales tanto para el **mejoramiento continuo**, como para el crecimiento profesional e interpersonal. Es por esto que siempre estoy dispuesto a compartir mi experiencia y conocimientos en **ingeniería, arquitectura y desarrollo de software**.
 
@@ -224,7 +224,7 @@ Esperando promover un espacio de aprendizaje colaborativo, si tienes preguntas, 
 
 ---
 
-## 📬 ¡Contáctame! {#contáctame}
+## 📬 ¡Contáctame!
 
 Si deseas comunicarte conmigo, puedes presionar una de las siguientes tarjetas para contactarme por LinkedIn o escribir directamente a mi correo. Cuando disponga de tiempo, ¡responderé con gusto! 👌🏻.
 
