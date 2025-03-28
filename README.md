@@ -20,8 +20,8 @@ A continuación se presenta el índice del documento para facilitar la navegaci�
 
 [**» Acerca de mí**](#-acerca-de-mí)</br>
 [**» Proyectos personales sobre ingeniería de software**](#-proyectos-personales-sobre-ingeniería-de-software)</br>
-&ensp;&ensp;&ensp;&ensp;&ensp;[**» Análisis sobre las fases del ciclo de vida del desarrollo de software**](#-análisis-sobre-las-fases-del-ciclo-de-vida-del-desarrollo-de-software-análisis-sobre-el-ciclo-de-vida-del-desarrollo-de-software)</br>
-&ensp;&ensp;&ensp;&ensp;&ensp;[**» Sistema de desarrollo de software autónomo basado en agentes inteligentes**](#-sistema-de-desarrollo-de-software-autónomo-basado-en-agentes-inteligentes-sistema-de-desarrollo-de-software-autónomo)</br>
+  [**» Análisis sobre las fases del ciclo de vida del desarrollo de software**](#-análisis-sobre-las-fases-del-ciclo-de-vida-del-desarrollo-de-software-análisis-sobre-el-ciclo-de-vida-del-desarrollo-de-software)</br>
+  [**» Sistema de desarrollo de software autónomo basado en agentes inteligentes**](#-sistema-de-desarrollo-de-software-autónomo-basado-en-agentes-inteligentes-sistema-de-desarrollo-de-software-autónomo)</br>
 [**» Mi stack de tecnologías**](#-mi-stack-de-tecnologías)</br>
 [**» Objetivos a mediano y largo plazo:**](#-objetivos-a-mediano-y-largo-plazo)</br>
 [**» Aprendizaje colaborativo y asesoramiento**](#-aprendizaje-colaborativo-y-asesoramiento)</br>
