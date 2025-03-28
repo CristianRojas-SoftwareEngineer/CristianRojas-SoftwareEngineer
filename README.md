@@ -18,7 +18,7 @@ En el siguiente documento presentaré mi **perfil profesional**, abarcando mi fo
 
 A continuación se presenta el índice del documento para facilitar la navegación por el mismo. El documento se encuentra estructurado de la siguiente manera:
 
-[**» Acerca de mí**](#acerca-de-mí)
+[**» Acerca de mí**](#-acerca-de-mi)
 [**» Proyectos personales sobre ingeniería de software**](#proyectos-personales)
 &ensp;&ensp;&ensp;&ensp;&ensp;[**» Análisis sobre las fases del ciclo de vida del desarrollo de software**](#análisis-sobre-el-ciclo-de-vida-del-desarrollo-de-software)
 &ensp;&ensp;&ensp;&ensp;&ensp;[**» Sistema de desarrollo de software autónomo basado en agentes inteligentes**](#sistema-de-desarrollo-de-software-autónomo)
@@ -26,7 +26,7 @@ A continuación se presenta el índice del documento para facilitar la navegaci�
 [**» Objetivos a mediano y largo plazo:**](#objetivos)
 [**» Aprendizaje colaborativo y asesoramiento**](#asesoramiento)
 [**» ¡Contáctame!**](#contáctame)
-[**» Palabras finales**](#palabras-finales)
+[**» Palabras finales**](#-palabras-finales)
 
 Puedes navegar directamente a cada sección del documento presionando sobre su respectivo título.
 
@@ -237,7 +237,7 @@ Si deseas comunicarte conmigo, puedes presionar una de las siguientes tarjetas p
 
 ---
 
-## 😉 Palabras finales {#palabras-finales}
+## 😉 Palabras finales
 
 Para concluir, me gustaría agradecerte por haber llegado hasta aquí, e invitarte a seguirme en <a href="https://linkedin.com/in/cristian-rojas-software-engineer">**LinkedIn**</a>, en dónde pretendo realizar publicaciones sobre divulgación técnica y avances en el framework de código abierto que estoy desarrollando.
 
