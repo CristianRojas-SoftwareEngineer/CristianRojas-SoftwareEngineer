@@ -249,3 +249,9 @@ Para concluir, me gustaría agradecerte por haber llegado hasta aquí, e invitar
 **Atentamente,
 Cristián Rojas Arredondo,
 Ingeniero de Software**
+
+---
+
+<div align="center">
+  <h2>» Documento en construcción «</h2>
+</div>
