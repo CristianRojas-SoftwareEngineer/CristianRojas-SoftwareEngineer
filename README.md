@@ -1,7 +1,9 @@
 
 <div align="center">
-  <h2>» Documento en construcción «</h2>
+  <h1>» Documento en construcción «</h1>
 </div>
+
+---
 
 ## ¡Hola!, bienvenido a mi perfil en GitHub 👋🏻
 
@@ -253,5 +255,5 @@ Ingeniero de Software**
 ---
 
 <div align="center">
-  <h2>» Documento en construcción «</h2>
+  <h1>» Documento en construcción «</h1>
 </div>
