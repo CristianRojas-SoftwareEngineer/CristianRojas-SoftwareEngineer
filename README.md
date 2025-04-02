@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>» Documento en construcción «</h1>
+  <h1>» Artículo en construcción «</h1>
 </div>
 
 ---
@@ -17,13 +17,13 @@
 
 Mi nombre es *Cristián Rojas Arredondo*, soy **"Licenciado en Ingeniería Informática"**, especializado en **"Ingeniería, Arquitectura y Desarrollo de Software"**.
 
-En el siguiente documento presentaré mi **perfil profesional**, abarcando mi formación académica, desarrollo profesional, especialización actual y mis objetivos a mediano y largo plazo. Adicionalmente, presentaré mis proyectos personales más relevantes sobre investigación, análisis, diseño y desarrollo de software.
+En el siguiente artículo presentaré mi **perfil profesional**, abarcando mi formación académica, desarrollo profesional, especialización actual y mis objetivos a mediano y largo plazo. Adicionalmente, presentaré mis proyectos personales más relevantes sobre investigación, análisis, diseño y desarrollo de software.
 
 ---
 
-## 📋 Índice del documento
+## 📋 Índice del artículo
 
-A continuación se presenta el índice del documento para facilitar la navegación por el mismo. El documento se encuentra estructurado de la siguiente manera:
+A continuación se presenta el índice del artículo para facilitar la navegación por el mismo. El artículo se encuentra estructurado de la siguiente manera:
 
 [**» Acerca de mí**](#-acerca-de-mí)</br>
 [**» Proyectos personales sobre ingeniería de software**](#-proyectos-personales-sobre-ingeniería-de-software)</br>
@@ -35,7 +35,7 @@ A continuación se presenta el índice del documento para facilitar la navegaci�
 [**» ¡Contáctame!**](#-contáctame)</br>
 [**» Palabras finales**](#-palabras-finales)</br>
 
-Puedes navegar directamente a cada sección del documento presionando sobre su respectivo título.
+Puedes navegar directamente a cada sección del artículo presionando sobre su respectivo título.
 
 ---
 
@@ -119,10 +119,10 @@ Este framework combina eficazmente las fortalezas de **«*C#*»** y **«*Python*
 ## 💻 Mi stack de tecnologías
 
 TODO: Debo definir cada una de las 4 categorías conceptual/teóricamente,
-TODO: Debo agregar subsección "Sobre la construcción de este documento", en dónde comente que:
-- Para escritura y maquetación del documento utilicé markdown con componentes de HTML embebido.
+TODO: Debo agregar subsección "Sobre la construcción de este artículo", en dónde comente que:
+- Para escritura y maquetación del artículo utilicé markdown con componentes de HTML embebido.
 - Para corregir la gramática e iterar el discurso de cada sección utilicé asistentes virtuales basados en modelos de lenguaje de gran tamaño o LLM's (Large Language Model's) por su sigla en inglés, tales como GPT-4 y Claude 3 con sus respectivas variaciones.
-- Todas las ilustraciones e imágenes presentadas en el documento fueron diseñadas exclusivamente para este, incluidos el banner, los logos y las tarjetas clickeables. Para la creación y edición de las imágenes utilicé PhotoShop 2021 (v22.5.9).
+- Todas las ilustraciones e imágenes presentadas en el artículo fueron diseñadas exclusivamente para este, incluidos el banner, los logos y las tarjetas clickeables. Para la creación y edición de las imágenes utilicé PhotoShop 2021 (v22.5.9).
 
 <div align="center">
   <table>
@@ -255,5 +255,5 @@ Ingeniero de Software**
 ---
 
 <div align="center">
-  <h1>» Documento en construcción «</h1>
+  <h1>» Artículo en construcción «</h1>
 </div>
