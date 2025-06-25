@@ -212,8 +212,13 @@ Mediano plazo: Capacitación y certificaciones para el 2025
 Consciente de la importancia del aprendizaje continuo, me he propuesto ampliar y certificar mis conocimientos en áreas clave que potencien mi crecimiento profesional. Durante el año 2025, trabajaré en:
 
 - **RabbitMQ**: 
-- **Terraform**: 
+- **Kafka**: 
+- **Go**: 
+- **Terraform**:
+- **Kubernetes**:
+- **SonarQube**: 
 - **Grafana**: 
+- **Prometheus**: 
 - **AWS**: Profundizar en servicios y arquitectura on cloud para diseñar soluciones escalables y resilientes.
 - **Inglés**: Alcanzar y certificar niveles avanzados (B2 y C1) que faciliten la comunicación en entornos internacionales y el acceso a fuentes globales de conocimiento.
 
